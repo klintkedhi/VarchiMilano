@@ -1,0 +1,14 @@
+{
+  "aggiornatoIl": "2026-11-02T16:50:30.374Z",
+  "fonti": {
+    "varchiAreaB": "https://dati.comune.milano.it/dataset/ds959-varchi-areab",
+    "varchiAreaC": "https://dati.comune.milano.it/dataset/ds82_infogeo_varchi_elettronici_localizzazione_",
+    "perimetri": "https://dati.comune.milano.it/dataset/ds51_trafficotrasporti_aree_pedonali_ztl",
+    "stradeECivici": "© OpenStreetMap contributors (Overpass API, Nominatim)"
+  },
+  "parametri": {
+    "COVER_RADIUS_M": 120,
+    "SAME_ROAD_TOLERANCE_M": 25,
+    "SAME_ROAD_MAX_M": 500
+  }
+}

@@ -1,0 +1,4094 @@
+[
+  {
+    "id": "B-1",
+    "zona": "area-b",
+    "codice": 1,
+    "nome": "Corelli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.471423,
+    "lng": 9.261429,
+    "via": "Via Arcangelo Corelli",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": null
+  },
+  {
+    "id": "B-2",
+    "zona": "area-b",
+    "codice": 2,
+    "nome": "Cima",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.473051,
+    "lng": 9.253813,
+    "via": "Via Camillo e Otto Cima",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": null
+  },
+  {
+    "id": "B-3",
+    "zona": "area-b",
+    "codice": 3,
+    "nome": "Rubattino",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.477259,
+    "lng": 9.251499,
+    "via": "Via Raffaele Rubattino",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": {
+      "via": "Via Caduti in Missione di Pace",
+      "distanza": 91
+    }
+  },
+  {
+    "id": "B-4",
+    "zona": "area-b",
+    "codice": 4,
+    "nome": "Caduti Di Marcinelle",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.483265,
+    "lng": 9.25881,
+    "via": "Via Caduti di Marcinelle",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": null
+  },
+  {
+    "id": "B-5",
+    "zona": "area-b",
+    "codice": 5,
+    "nome": "Monneret",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.486516,
+    "lng": 9.246349,
+    "via": "Via Ugo Monneret de Villard",
+    "civico": "1",
+    "quartiere": "Municipio 3",
+    "incrocio": {
+      "via": "Via Rombon",
+      "distanza": 10
+    }
+  },
+  {
+    "id": "B-6",
+    "zona": "area-b",
+    "codice": 6,
+    "nome": "Rombon 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.486719,
+    "lng": 9.246034,
+    "via": "Via Rombon",
+    "civico": null,
+    "quartiere": "Parco Lambro - Cimiano",
+    "incrocio": {
+      "via": "Via Passo Sella",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-7",
+    "zona": "area-b",
+    "codice": 7,
+    "nome": "Rombon 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.487002,
+    "lng": 9.246229,
+    "via": "Via Rombon",
+    "civico": null,
+    "quartiere": "Parco Lambro - Cimiano",
+    "incrocio": {
+      "via": "Via Passo Sella",
+      "distanza": 24
+    }
+  },
+  {
+    "id": "B-9",
+    "zona": "area-b",
+    "codice": 9,
+    "nome": "Rizzoli",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.508346,
+    "lng": 9.255012,
+    "via": "Via Angelo Rizzoli",
+    "civico": null,
+    "quartiere": "Parco Lambro - Cimiano",
+    "incrocio": null
+  },
+  {
+    "id": "B-10",
+    "zona": "area-b",
+    "codice": 10,
+    "nome": "Carnia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.495492,
+    "lng": 9.235477,
+    "via": "Via Carnia",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": {
+      "via": "Via Palmanova",
+      "distanza": 10
+    }
+  },
+  {
+    "id": "B-11",
+    "zona": "area-b",
+    "codice": 11,
+    "nome": "Palmanova 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.496051,
+    "lng": 9.235613,
+    "via": "Via Palmanova",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Bruno Cesana",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-12",
+    "zona": "area-b",
+    "codice": 12,
+    "nome": "Cambini",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.493534,
+    "lng": 9.231921,
+    "via": "Via Leonardo Cambini",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Enzo Petraccone",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "B-13",
+    "zona": "area-b",
+    "codice": 13,
+    "nome": "Clitumno",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.492587,
+    "lng": 9.22938,
+    "via": "Via Clitumno",
+    "civico": "5",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Piazza Sire Raul",
+      "distanza": 5
+    }
+  },
+  {
+    "id": "B-14",
+    "zona": "area-b",
+    "codice": 14,
+    "nome": "Leoncavallo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.492092,
+    "lng": 9.228933,
+    "via": "Via Ruggero Leoncavallo",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Piazza Sire Raul",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "B-15",
+    "zona": "area-b",
+    "codice": 15,
+    "nome": "Teodosio",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.491878,
+    "lng": 9.229687,
+    "via": "Piazza Sire Raul",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": {
+      "via": "Via Teodosio",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "B-16",
+    "zona": "area-b",
+    "codice": 16,
+    "nome": "Palmanova 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.49229,
+    "lng": 9.230269,
+    "via": "2390_20826",
+    "civico": null,
+    "quartiere": "Municipio 3",
+    "incrocio": {
+      "via": "Via Palmanova",
+      "distanza": 5
+    }
+  },
+  {
+    "id": "B-17",
+    "zona": "area-b",
+    "codice": 17,
+    "nome": "Padova",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.512189,
+    "lng": 9.256285,
+    "via": "Via Padova",
+    "civico": "353",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Palmanova",
+      "distanza": 35
+    }
+  },
+  {
+    "id": "B-20",
+    "zona": "area-b",
+    "codice": 20,
+    "nome": "Adriano",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.51782,
+    "lng": 9.243266,
+    "via": "Via Adriano",
+    "civico": "107",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Ugo Mulas",
+      "distanza": 47
+    }
+  },
+  {
+    "id": "B-23",
+    "zona": "area-b",
+    "codice": 23,
+    "nome": "Anassagora",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.516827,
+    "lng": 9.230874,
+    "via": "Via privata Anassagora",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Pindaro",
+      "distanza": 5
+    }
+  },
+  {
+    "id": "B-24",
+    "zona": "area-b",
+    "codice": 24,
+    "nome": "Columella",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.516752,
+    "lng": 9.226599,
+    "via": "Via Lucio Giunio Columella",
+    "civico": "40",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Pindaro",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "B-25",
+    "zona": "area-b",
+    "codice": 25,
+    "nome": "Monza",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.516954,
+    "lng": 9.225954,
+    "via": "Viale Monza",
+    "civico": "311",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Pindaro",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-27",
+    "zona": "area-b",
+    "codice": 27,
+    "nome": "Breda",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.522657,
+    "lng": 9.222737,
+    "via": "Via Ernesto Breda",
+    "civico": "184",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Porto Corsini",
+      "distanza": 21
+    }
+  },
+  {
+    "id": "B-28",
+    "zona": "area-b",
+    "codice": 28,
+    "nome": "Sesto San Giovanni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.519849,
+    "lng": 9.218905,
+    "via": "Via Sesto San Giovanni",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Chiese",
+      "distanza": 12
+    }
+  },
+  {
+    "id": "B-29",
+    "zona": "area-b",
+    "codice": 29,
+    "nome": "Pirelli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.521086,
+    "lng": 9.214365,
+    "via": "Viale Piero e Alberto Pirelli",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Chiese",
+      "distanza": 8
+    }
+  },
+  {
+    "id": "B-30",
+    "zona": "area-b",
+    "codice": 30,
+    "nome": "Sarca",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.521609,
+    "lng": 9.212081,
+    "via": "Viale Sarca",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Chiese",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "B-31",
+    "zona": "area-b",
+    "codice": 31,
+    "nome": "Fulvio Testi 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.521773,
+    "lng": 9.20897,
+    "via": "Viale Fulvio Testi",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Ponale",
+      "distanza": 92
+    }
+  },
+  {
+    "id": "B-32",
+    "zona": "area-b",
+    "codice": 32,
+    "nome": "Fulvio Testi 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.522266,
+    "lng": 9.20941,
+    "via": "Viale Fulvio Testi",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Ponale",
+      "distanza": 30
+    }
+  },
+  {
+    "id": "B-35",
+    "zona": "area-b",
+    "codice": 35,
+    "nome": "Ornato",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.523796,
+    "lng": 9.19227,
+    "via": "Via Luigi Ornato",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Guido da Velate",
+      "distanza": 61
+    }
+  },
+  {
+    "id": "B-36",
+    "zona": "area-b",
+    "codice": 36,
+    "nome": "Comboni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.525595,
+    "lng": 9.180938,
+    "via": "Via Daniele Comboni",
+    "civico": null,
+    "quartiere": "Bruzzano",
+    "incrocio": null
+  },
+  {
+    "id": "B-37",
+    "zona": "area-b",
+    "codice": 37,
+    "nome": "Pasta",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.529016,
+    "lng": 9.178675,
+    "via": "Via Giuditta Pasta",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Piazzale Martiri della Deportazione",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-38",
+    "zona": "area-b",
+    "codice": 38,
+    "nome": "Senigallia 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.528581,
+    "lng": 9.165658,
+    "via": "Via Senigallia",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Viale Rubicone",
+      "distanza": 24
+    }
+  },
+  {
+    "id": "B-39",
+    "zona": "area-b",
+    "codice": 39,
+    "nome": "Senigallia 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.528122,
+    "lng": 9.164667,
+    "via": "Viale Rubicone",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Senigallia",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-40",
+    "zona": "area-b",
+    "codice": 40,
+    "nome": "Vincenzo Da Seregno 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.522457,
+    "lng": 9.174131,
+    "via": "Via Vincenzo da Seregno",
+    "civico": null,
+    "quartiere": "Bruzzano",
+    "incrocio": {
+      "via": "Via Riccardo Galeazzi",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-41",
+    "zona": "area-b",
+    "codice": 41,
+    "nome": "Vincenzo Da Seregno 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.521879,
+    "lng": 9.172992,
+    "via": "Via Vincenzo da Seregno",
+    "civico": null,
+    "quartiere": "Bruzzano",
+    "incrocio": {
+      "via": "Viale Enrico Fermi",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-42",
+    "zona": "area-b",
+    "codice": 42,
+    "nome": "Fermi",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.513664,
+    "lng": 9.179228,
+    "via": "Viale Enrico Fermi",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Ettore Majorana",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "B-43",
+    "zona": "area-b",
+    "codice": 43,
+    "nome": "Comasina",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.531104,
+    "lng": 9.162246,
+    "via": "Via Comasina",
+    "civico": "115",
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Viale Rubicone",
+      "distanza": 66
+    }
+  },
+  {
+    "id": "B-44",
+    "zona": "area-b",
+    "codice": 44,
+    "nome": "Litta Modignani",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.521291,
+    "lng": 9.152093,
+    "via": "Via Alessandro Litta Modignani",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Bovisasca",
+      "distanza": 85
+    }
+  },
+  {
+    "id": "B-45",
+    "zona": "area-b",
+    "codice": 45,
+    "nome": "Assietta",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.516707,
+    "lng": 9.156518,
+    "via": "Via Assietta",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Bovisasca",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-46",
+    "zona": "area-b",
+    "codice": 46,
+    "nome": "Gabbro",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.514534,
+    "lng": 9.157354,
+    "via": "Via Gabbro",
+    "civico": "2",
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Bovisasca",
+      "distanza": 10
+    }
+  },
+  {
+    "id": "B-47",
+    "zona": "area-b",
+    "codice": 47,
+    "nome": "Bovisasca",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.513721,
+    "lng": 9.157322,
+    "via": "Via Bovisasca",
+    "civico": "141",
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Cascina dei Prati",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "B-49",
+    "zona": "area-b",
+    "codice": 49,
+    "nome": "Lessona",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.520905,
+    "lng": 9.13593,
+    "via": "Via Val Lagarina",
+    "civico": null,
+    "quartiere": "Vialba",
+    "incrocio": {
+      "via": "Via Michele Lessona",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-52",
+    "zona": "area-b",
+    "codice": 52,
+    "nome": "Grassi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.5172,
+    "lng": 9.12024,
+    "via": "Via Giovanni Battista Grassi",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Cristina Belgioioso",
+      "distanza": 104
+    }
+  },
+  {
+    "id": "B-53",
+    "zona": "area-b",
+    "codice": 53,
+    "nome": "Stephenson 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.511303,
+    "lng": 9.125562,
+    "via": "Via Giovanni Gentile",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Collegamento Via Eritrea - Via Stephenson",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-55",
+    "zona": "area-b",
+    "codice": 55,
+    "nome": "Oriani",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.500476,
+    "lng": 9.129971,
+    "via": "Piazzale ai Laghi",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Barnaba Oriani",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-56",
+    "zona": "area-b",
+    "codice": 56,
+    "nome": "Certosa 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.500081,
+    "lng": 9.129806,
+    "via": "Viale Certosa",
+    "civico": "230",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Piazzale ai Laghi",
+      "distanza": 30
+    }
+  },
+  {
+    "id": "B-57",
+    "zona": "area-b",
+    "codice": 57,
+    "nome": "Certosa 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.499895,
+    "lng": 9.129985,
+    "via": "Viale Certosa",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Piazzale ai Laghi",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "B-58",
+    "zona": "area-b",
+    "codice": 58,
+    "nome": "Bressanone",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.499057,
+    "lng": 9.129753,
+    "via": "Via Bressanone",
+    "civico": "4a",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "B-59",
+    "zona": "area-b",
+    "codice": 59,
+    "nome": "Gallarate 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.49794,
+    "lng": 9.129656,
+    "via": "Via Gallarate",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-60",
+    "zona": "area-b",
+    "codice": 60,
+    "nome": "De Gasperi 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.495484,
+    "lng": 9.129309,
+    "via": "Viale Alcide De Gasperi",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 9
+    }
+  },
+  {
+    "id": "B-61",
+    "zona": "area-b",
+    "codice": 61,
+    "nome": "Quattrocchi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.494947,
+    "lng": 9.12956,
+    "via": "Via Fabrizio Quattrocchi",
+    "civico": null,
+    "quartiere": "Quartiere Gallaratese",
+    "incrocio": {
+      "via": "Piazza John Fitzgerald Kennedy",
+      "distanza": 28
+    }
+  },
+  {
+    "id": "B-62",
+    "zona": "area-b",
+    "codice": 62,
+    "nome": "Sant'Elia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.491113,
+    "lng": 9.129863,
+    "via": "Via Antonio Sant'Elia",
+    "civico": null,
+    "quartiere": "Quartiere Gallaratese",
+    "incrocio": null
+  },
+  {
+    "id": "B-64",
+    "zona": "area-b",
+    "codice": 64,
+    "nome": "Inverigo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.494949,
+    "lng": 9.131376,
+    "via": "Viale Alcide De Gasperi",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Inverigo",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "B-65",
+    "zona": "area-b",
+    "codice": 65,
+    "nome": "Gallarate 3",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.497293,
+    "lng": 9.130961,
+    "via": "Via Gallarate",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 12
+    }
+  },
+  {
+    "id": "B-66",
+    "zona": "area-b",
+    "codice": 66,
+    "nome": "Capodistria",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.497727,
+    "lng": 9.131038,
+    "via": "Via privata Capodistria",
+    "civico": "8",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "B-67",
+    "zona": "area-b",
+    "codice": 67,
+    "nome": "Certosa 3",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.499107,
+    "lng": 9.131265,
+    "via": "Viale Certosa",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 13
+    }
+  },
+  {
+    "id": "B-68",
+    "zona": "area-b",
+    "codice": 68,
+    "nome": "Certosa 4",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.49943,
+    "lng": 9.130835,
+    "via": "Viale Certosa",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale del Ghisallo",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "B-69",
+    "zona": "area-b",
+    "codice": 69,
+    "nome": "Montefeltro",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.502435,
+    "lng": 9.130836,
+    "via": "Via Montefeltro",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Svincolo Autostradale Viale Certosa",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-70",
+    "zona": "area-b",
+    "codice": 70,
+    "nome": "Barzaghi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.510719,
+    "lng": 9.114034,
+    "via": "7443_51686",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Rotatoria Barzaghi",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-71",
+    "zona": "area-b",
+    "codice": 71,
+    "nome": "Jona",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.511101,
+    "lng": 9.106903,
+    "via": "7361_50479",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Cascina Merlata",
+      "distanza": 8
+    }
+  },
+  {
+    "id": "B-72",
+    "zona": "area-b",
+    "codice": 72,
+    "nome": "Daimler 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.512339,
+    "lng": 9.098711,
+    "via": "Via Pier Paolo Pasolini",
+    "civico": "19",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Gottlieb Wilhelm Daimler",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-73",
+    "zona": "area-b",
+    "codice": 73,
+    "nome": "Daimler 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.510312,
+    "lng": 9.099431,
+    "via": "-9999_53017",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Gottlieb Wilhelm Daimler",
+      "distanza": 9
+    }
+  },
+  {
+    "id": "B-74",
+    "zona": "area-b",
+    "codice": 74,
+    "nome": "Gallarate 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.505843,
+    "lng": 9.101544,
+    "via": "Via Gallarate",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Gottlieb Wilhelm Daimler",
+      "distanza": 57
+    }
+  },
+  {
+    "id": "B-75",
+    "zona": "area-b",
+    "codice": 75,
+    "nome": "Appennini 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.505835,
+    "lng": 9.09801,
+    "via": "Via Appennini",
+    "civico": "191",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Gallarate",
+      "distanza": 95
+    }
+  },
+  {
+    "id": "B-77",
+    "zona": "area-b",
+    "codice": 77,
+    "nome": "Novara Trenno",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.486522,
+    "lng": 9.079033,
+    "via": "Via Novara",
+    "civico": null,
+    "quartiere": "Figino",
+    "incrocio": null
+  },
+  {
+    "id": "B-79",
+    "zona": "area-b",
+    "codice": 79,
+    "nome": "De Sica",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.477456,
+    "lng": 9.085718,
+    "via": "Via Vittorio De Sica",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Fantasio Piccoli",
+      "distanza": 32
+    }
+  },
+  {
+    "id": "B-80",
+    "zona": "area-b",
+    "codice": 80,
+    "nome": "Piccoli",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.476986,
+    "lng": 9.0855,
+    "via": "Via Vittorio De Sica",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Fantasio Piccoli",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-81",
+    "zona": "area-b",
+    "codice": 81,
+    "nome": "Airaghi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.474962,
+    "lng": 9.083144,
+    "via": "Via Gaetano Airaghi",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Vittorio De Sica",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-82",
+    "zona": "area-b",
+    "codice": 82,
+    "nome": "Quinto Romano",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.472638,
+    "lng": 9.080099,
+    "via": "Via Quinto Romano",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Gaetano Airaghi",
+      "distanza": 45
+    }
+  },
+  {
+    "id": "B-83",
+    "zona": "area-b",
+    "codice": 83,
+    "nome": "Monsignor Romero 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.463732,
+    "lng": 9.08539,
+    "via": "Via Monsignor Oscar Arnulfo Romero",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Seguro",
+      "distanza": 31
+    }
+  },
+  {
+    "id": "B-84",
+    "zona": "area-b",
+    "codice": 84,
+    "nome": "Seguro",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.46355,
+    "lng": 9.085993,
+    "via": "Via Seguro",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Monsignor Oscar Arnulfo Romero",
+      "distanza": 33
+    }
+  },
+  {
+    "id": "B-87",
+    "zona": "area-b",
+    "codice": 87,
+    "nome": "Castrovillari",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.45626,
+    "lng": 9.086604,
+    "via": "Via Castrovillari",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Cavalcavia Giuseppe Luraghi",
+      "distanza": 27
+    }
+  },
+  {
+    "id": "B-88",
+    "zona": "area-b",
+    "codice": 88,
+    "nome": "Luraghi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.455485,
+    "lng": 9.089219,
+    "via": "Cavalcavia Giuseppe Luraghi",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Valle Antrona",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "B-89",
+    "zona": "area-b",
+    "codice": 89,
+    "nome": "Gozzoli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.454968,
+    "lng": 9.091875,
+    "via": "Via Benozzo Gozzoli",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Valsesia",
+      "distanza": 24
+    }
+  },
+  {
+    "id": "B-90",
+    "zona": "area-b",
+    "codice": 90,
+    "nome": "Valsesia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.452562,
+    "lng": 9.102542,
+    "via": "6854_52961",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Ferruccio Parri",
+      "distanza": 13
+    }
+  },
+  {
+    "id": "B-91",
+    "zona": "area-b",
+    "codice": 91,
+    "nome": "Lucca 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.454656,
+    "lng": 9.107999,
+    "via": "Via Lucca",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Ferruccio Parri",
+      "distanza": 27
+    }
+  },
+  {
+    "id": "B-92",
+    "zona": "area-b",
+    "codice": 92,
+    "nome": "Lucca 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.455251,
+    "lng": 9.11109,
+    "via": "Via Lucca",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Ferruccio Parri",
+      "distanza": 28
+    }
+  },
+  {
+    "id": "B-93",
+    "zona": "area-b",
+    "codice": 93,
+    "nome": "Basilea",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.456237,
+    "lng": 9.114777,
+    "via": "Via Basilea",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Zurigo",
+      "distanza": 58
+    }
+  },
+  {
+    "id": "B-94",
+    "zona": "area-b",
+    "codice": 94,
+    "nome": "Zurigo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.456129,
+    "lng": 9.116759,
+    "via": "Via Zurigo",
+    "civico": "65",
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Giuseppe Carozzi",
+      "distanza": 85
+    }
+  },
+  {
+    "id": "B-95",
+    "zona": "area-b",
+    "codice": 95,
+    "nome": "Ciconi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.45392,
+    "lng": 9.116181,
+    "via": "Via Teobaldo Ciconi",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Bisceglie",
+      "distanza": 30
+    }
+  },
+  {
+    "id": "B-96",
+    "zona": "area-b",
+    "codice": 96,
+    "nome": "Lorenteggio",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.446074,
+    "lng": 9.124855,
+    "via": "Via Lorenteggio",
+    "civico": "209",
+    "quartiere": "Lorenteggio",
+    "incrocio": {
+      "via": "Via Menaggio",
+      "distanza": 70
+    }
+  },
+  {
+    "id": "B-97",
+    "zona": "area-b",
+    "codice": 97,
+    "nome": "Gonin",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.442686,
+    "lng": 9.124315,
+    "via": "Via Francesco Gonin",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Pietro Giordani",
+      "distanza": 42
+    }
+  },
+  {
+    "id": "B-98",
+    "zona": "area-b",
+    "codice": 98,
+    "nome": "Lodovico Il Moro",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.438187,
+    "lng": 9.123849,
+    "via": "Via Lodovico il Moro",
+    "civico": "201",
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Fernando Santi",
+      "distanza": 93
+    }
+  },
+  {
+    "id": "B-99",
+    "zona": "area-b",
+    "codice": 99,
+    "nome": "Buccinasco",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.437367,
+    "lng": 9.126691,
+    "via": "Via Buccinasco",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Pietro Giordani",
+      "distanza": 36
+    }
+  },
+  {
+    "id": "B-100",
+    "zona": "area-b",
+    "codice": 100,
+    "nome": "Boffalora",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.426312,
+    "lng": 9.160123,
+    "via": "Via Boffalora",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Arturo Danusso",
+      "distanza": 119
+    }
+  },
+  {
+    "id": "B-101",
+    "zona": "area-b",
+    "codice": 101,
+    "nome": "Rosa Bianca",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.425054,
+    "lng": 9.164802,
+    "via": "Via Boffalora",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Jan Palach",
+      "distanza": 27
+    }
+  },
+  {
+    "id": "B-102",
+    "zona": "area-b",
+    "codice": 102,
+    "nome": "Jan Palach",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.424871,
+    "lng": 9.165185,
+    "via": "Via Jan Palach",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Boffalora",
+      "distanza": 24
+    }
+  },
+  {
+    "id": "B-103",
+    "zona": "area-b",
+    "codice": 103,
+    "nome": "Palatucci",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.436121,
+    "lng": 9.167042,
+    "via": "Via Giovanni Palatucci",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": null
+  },
+  {
+    "id": "B-104",
+    "zona": "area-b",
+    "codice": 104,
+    "nome": "Schiavoni 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.437737,
+    "lng": 9.16967,
+    "via": "Viale Famagosta",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Sottopasso Schiavoni",
+      "distanza": 69
+    }
+  },
+  {
+    "id": "B-105",
+    "zona": "area-b",
+    "codice": 105,
+    "nome": "La Spezia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.438473,
+    "lng": 9.171772,
+    "via": "Via Spezia",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Piazza Gian Antonio Maggi",
+      "distanza": 74
+    }
+  },
+  {
+    "id": "B-106",
+    "zona": "area-b",
+    "codice": 106,
+    "nome": "Bordighera",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.438002,
+    "lng": 9.173642,
+    "via": "Via Bordighera",
+    "civico": "47",
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Giovanni Schiavoni",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "B-107",
+    "zona": "area-b",
+    "codice": 107,
+    "nome": "Naviglio Pavese",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.436604,
+    "lng": 9.174194,
+    "via": "Alzaia Naviglio Pavese",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Fra Cristoforo",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "B-108",
+    "zona": "area-b",
+    "codice": 108,
+    "nome": "Schiavoni 2",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.437369,
+    "lng": 9.173298,
+    "via": "Cavalcavia Giovanni Schiavoni",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Sottopasso Schiavoni",
+      "distanza": 13
+    }
+  },
+  {
+    "id": "B-109",
+    "zona": "area-b",
+    "codice": 109,
+    "nome": "Don Rodrigo",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.434207,
+    "lng": 9.169609,
+    "via": "Via Don Rodrigo",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Donna Prassede",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "B-110",
+    "zona": "area-b",
+    "codice": 110,
+    "nome": "Chiesa Rossa",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.414325,
+    "lng": 9.162897,
+    "via": "Via della Chiesa Rossa",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Icilio Calzolari",
+      "distanza": 41
+    }
+  },
+  {
+    "id": "B-111",
+    "zona": "area-b",
+    "codice": 111,
+    "nome": "Baroni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.403571,
+    "lng": 9.173203,
+    "via": "Via Costantino Baroni",
+    "civico": null,
+    "quartiere": "Gratosoglio",
+    "incrocio": {
+      "via": "Via Lelio Basso",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "B-112",
+    "zona": "area-b",
+    "codice": 112,
+    "nome": "Missaglia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.403041,
+    "lng": 9.174672,
+    "via": "Via dei Missaglia",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Costantino Baroni",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "B-113",
+    "zona": "area-b",
+    "codice": 113,
+    "nome": "Manduria",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.402663,
+    "lng": 9.174851,
+    "via": "Via Manduria",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via dei Missaglia",
+      "distanza": 26
+    }
+  },
+  {
+    "id": "B-114",
+    "zona": "area-b",
+    "codice": 114,
+    "nome": "Ripamonti",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.416456,
+    "lng": 9.205716,
+    "via": "Via Giuseppe Ripamonti",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": null
+  },
+  {
+    "id": "B-117",
+    "zona": "area-b",
+    "codice": 117,
+    "nome": "Assunta",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.432626,
+    "lng": 9.20578,
+    "via": "Via dell'Assunta",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Ermanno Wolf Ferrari",
+      "distanza": 61
+    }
+  },
+  {
+    "id": "B-118",
+    "zona": "area-b",
+    "codice": 118,
+    "nome": "Passo Pordoi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.434582,
+    "lng": 9.209709,
+    "via": "Via Passo Pordoi",
+    "civico": "23",
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via dell'Assunta",
+      "distanza": 8
+    }
+  },
+  {
+    "id": "B-119",
+    "zona": "area-b",
+    "codice": 119,
+    "nome": "Pismonte",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.435951,
+    "lng": 9.214536,
+    "via": "Via Pismonte",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Marco d'Agrate",
+      "distanza": 103
+    }
+  },
+  {
+    "id": "B-120",
+    "zona": "area-b",
+    "codice": 120,
+    "nome": "Ravenna",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.432197,
+    "lng": 9.223619,
+    "via": "Via Ravenna",
+    "civico": null,
+    "quartiere": "Lodi - Corvetto",
+    "incrocio": {
+      "via": "Viale Omero",
+      "distanza": 28
+    }
+  },
+  {
+    "id": "B-121",
+    "zona": "area-b",
+    "codice": 121,
+    "nome": "Fabio Massimo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.431902,
+    "lng": 9.224452,
+    "via": "Via Fabio Massimo",
+    "civico": null,
+    "quartiere": "Lodi - Corvetto",
+    "incrocio": {
+      "via": "Viale Omero",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-122",
+    "zona": "area-b",
+    "codice": 122,
+    "nome": "Raccordo Autosole",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.434082,
+    "lng": 9.235436,
+    "via": "Raccordo per l'Autostrada del Sole",
+    "civico": null,
+    "quartiere": "Lodi - Corvetto",
+    "incrocio": {
+      "via": "Via Giovanni Battista Cassinis",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-123",
+    "zona": "area-b",
+    "codice": 123,
+    "nome": "Cassinis",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.435119,
+    "lng": 9.234879,
+    "via": "Via Giovanni Battista Cassinis",
+    "civico": "59",
+    "quartiere": "Lodi - Corvetto",
+    "incrocio": {
+      "via": "Piazza Federico Mistral",
+      "distanza": 21
+    }
+  },
+  {
+    "id": "B-125",
+    "zona": "area-b",
+    "codice": 125,
+    "nome": "Rogoredo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.429762,
+    "lng": 9.24635,
+    "via": "Via Rogoredo",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Monte Piana",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-126",
+    "zona": "area-b",
+    "codice": 126,
+    "nome": "Feltrinelli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.429615,
+    "lng": 9.24699,
+    "via": "Via Carlo Feltrinelli",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Rogoredo",
+      "distanza": 33
+    }
+  },
+  {
+    "id": "B-127",
+    "zona": "area-b",
+    "codice": 127,
+    "nome": "Futurismo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.436816,
+    "lng": 9.247034,
+    "via": "Via del Futurismo",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via San Venerio",
+      "distanza": 32
+    }
+  },
+  {
+    "id": "B-128",
+    "zona": "area-b",
+    "codice": 128,
+    "nome": "Ungheria",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.447038,
+    "lng": 9.255034,
+    "via": "Viale Ungheria",
+    "civico": "29",
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Mecenate",
+      "distanza": 47
+    }
+  },
+  {
+    "id": "B-129",
+    "zona": "area-b",
+    "codice": 129,
+    "nome": "Mecenate",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.448057,
+    "lng": 9.254842,
+    "via": "Via Mecenate",
+    "civico": "115",
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Viale Ungheria",
+      "distanza": 94
+    }
+  },
+  {
+    "id": "B-130",
+    "zona": "area-b",
+    "codice": 130,
+    "nome": "Fantoli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "n.10 del 28/01/2019 e n.18 del 8/02/2019",
+    "lat": 45.451435,
+    "lng": 9.251436,
+    "via": "Via Gaudenzio Fantoli",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Mecenate",
+      "distanza": 70
+    }
+  },
+  {
+    "id": "B-131",
+    "zona": "area-b",
+    "codice": 131,
+    "nome": "Mazzucotelli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.461813,
+    "lng": 9.244692,
+    "via": "Via Alessandro Mazzucotelli",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Viale Enrico Forlanini",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-132",
+    "zona": "area-b",
+    "codice": 132,
+    "nome": "Artigianato",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.461634,
+    "lng": 9.24392,
+    "via": "Piazza Artigianato",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Viale Enrico Forlanini",
+      "distanza": 34
+    }
+  },
+  {
+    "id": "B-137",
+    "zona": "area-b",
+    "codice": 137,
+    "nome": "Forlanini",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.462144,
+    "lng": 9.243637,
+    "via": "Viale Enrico Forlanini",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Piazza Artigianato",
+      "distanza": 27
+    }
+  },
+  {
+    "id": "B-138",
+    "zona": "area-b",
+    "codice": 138,
+    "nome": "Serra 1",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.485491,
+    "lng": 9.14436,
+    "via": "Viale Renato Serra",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Cavalcavia Renato Serra",
+      "distanza": 5
+    }
+  },
+  {
+    "id": "B-140",
+    "zona": "area-b",
+    "codice": 140,
+    "nome": "Veniero",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.482882,
+    "lng": 9.147368,
+    "via": "Via Sebastiano Veniero",
+    "civico": "5",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale Lodovico Scarampo",
+      "distanza": 34
+    }
+  },
+  {
+    "id": "B-141",
+    "zona": "area-b",
+    "codice": 141,
+    "nome": "Vigliani",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.482306,
+    "lng": 9.147511,
+    "via": "Viale Paolo Onorato Vigliani",
+    "civico": "10",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Sebastiano Veniero",
+      "distanza": 47
+    }
+  },
+  {
+    "id": "B-142",
+    "zona": "area-b",
+    "codice": 142,
+    "nome": "Scarampo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.482543,
+    "lng": 9.148581,
+    "via": "Viale Lodovico Scarampo",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale Paolo Onorato Vigliani",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-143",
+    "zona": "area-b",
+    "codice": 143,
+    "nome": "Teodorico",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.482894,
+    "lng": 9.148885,
+    "via": "Viale Teodorico",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale Lodovico Scarampo",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-144",
+    "zona": "area-b",
+    "codice": 144,
+    "nome": "Serra 2",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.485745,
+    "lng": 9.145221,
+    "via": "Viale Renato Serra",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Cavalcavia Renato Serra",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-146",
+    "zona": "area-b",
+    "codice": 146,
+    "nome": "Gattamelata",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.485424,
+    "lng": 9.149883,
+    "via": "Via Gattamelata",
+    "civico": "41",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Rotatoria Herbert Kilpin",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "B-147",
+    "zona": "area-b",
+    "codice": 147,
+    "nome": "Achille Papa",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.489231,
+    "lng": 9.142083,
+    "via": "Viale Achille Papa",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale Alcide De Gasperi",
+      "distanza": 108
+    }
+  },
+  {
+    "id": "B-149",
+    "zona": "area-b",
+    "codice": 149,
+    "nome": "Mulas",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.518758,
+    "lng": 9.242837,
+    "via": "Via Ugo Mulas",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Adriano",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "B-151",
+    "zona": "area-b",
+    "codice": 151,
+    "nome": "Basso",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.403491,
+    "lng": 9.173668,
+    "via": "Via Lelio Basso",
+    "civico": null,
+    "quartiere": "Gratosoglio",
+    "incrocio": {
+      "via": "Via Costantino Baroni",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-152",
+    "zona": "area-b",
+    "codice": 152,
+    "nome": "Brunico",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.517978,
+    "lng": 9.226,
+    "via": "Via Brunico",
+    "civico": "3",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Viale Monza",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "B-153",
+    "zona": "area-b",
+    "codice": 153,
+    "nome": "Galeno",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.519541,
+    "lng": 9.226316,
+    "via": "Via privata Galeno",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Viale Monza",
+      "distanza": 28
+    }
+  },
+  {
+    "id": "B-154",
+    "zona": "area-b",
+    "codice": 154,
+    "nome": "Sant'Uguzzone",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.520398,
+    "lng": 9.226676,
+    "via": "Via Sant'Uguzzone",
+    "civico": "8",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Viale Monza",
+      "distanza": 21
+    }
+  },
+  {
+    "id": "B-158",
+    "zona": "area-b",
+    "codice": 158,
+    "nome": "El Alamein",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.518123,
+    "lng": 9.154308,
+    "via": "Via El Alamein",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Cardinale Pietro Maffi",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-159",
+    "zona": "area-b",
+    "codice": 159,
+    "nome": "Maffi",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.518156,
+    "lng": 9.154219,
+    "via": "Via Cardinale Pietro Maffi",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via El Alamein",
+      "distanza": 12
+    }
+  },
+  {
+    "id": "B-160",
+    "zona": "area-b",
+    "codice": 160,
+    "nome": "Marazza",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.516675,
+    "lng": 9.156024,
+    "via": "Via Achille Marazza",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Bovisasca",
+      "distanza": 13
+    }
+  },
+  {
+    "id": "B-161",
+    "zona": "area-b",
+    "codice": 161,
+    "nome": "Cascina Dei Prati",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.513845,
+    "lng": 9.156877,
+    "via": "Via Cascina dei Prati",
+    "civico": "7",
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via Bovisasca",
+      "distanza": 21
+    }
+  },
+  {
+    "id": "B-162",
+    "zona": "area-b",
+    "codice": 162,
+    "nome": "Naviglio Pavese 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.422984,
+    "lng": 9.167464,
+    "via": "Alzaia Naviglio Pavese",
+    "civico": "286",
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via della Chiesa Rossa",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "B-163",
+    "zona": "area-b",
+    "codice": 163,
+    "nome": "Banfi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.413585,
+    "lng": 9.164964,
+    "via": "Via Gianluigi Banfi",
+    "civico": "4",
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Largo Giovanni Muzio",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-164",
+    "zona": "area-b",
+    "codice": 164,
+    "nome": "Brusuglio",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.516445,
+    "lng": 9.178101,
+    "via": "Via Brusuglio",
+    "civico": "38",
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Viale Enrico Fermi",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-165",
+    "zona": "area-b",
+    "codice": 165,
+    "nome": "Sbarbaro",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.516494,
+    "lng": 9.179013,
+    "via": "Via Camillo Sbarbaro",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Viale Enrico Fermi",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-167",
+    "zona": "area-b",
+    "codice": 167,
+    "nome": "Majorana",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.513767,
+    "lng": 9.18236,
+    "via": "Via Ettore Majorana",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": null
+  },
+  {
+    "id": "B-173",
+    "zona": "area-b",
+    "codice": 173,
+    "nome": "Algardi",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.484273,
+    "lng": 9.146048,
+    "via": "Via Alessandro Algardi",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Viale Lodovico Scarampo",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-174",
+    "zona": "area-b",
+    "codice": 174,
+    "nome": "Olivari",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.49196,
+    "lng": 9.230057,
+    "via": "Piazza Sire Raul",
+    "civico": "4",
+    "quartiere": "Municipio 3",
+    "incrocio": {
+      "via": "Via Emilio Olivari",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "B-175",
+    "zona": "area-b",
+    "codice": 175,
+    "nome": "Ponale",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.5226,
+    "lng": 9.209258,
+    "via": "Via Ponale",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Viale Fulvio Testi",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "B-176",
+    "zona": "area-b",
+    "codice": 176,
+    "nome": "Berbera",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.52553,
+    "lng": 9.202432,
+    "via": "Viale Berbera",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": {
+      "via": "Via del Regno Italico",
+      "distanza": 31
+    }
+  },
+  {
+    "id": "B-177",
+    "zona": "area-b",
+    "codice": 177,
+    "nome": "Amoretti",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.520707,
+    "lng": 9.146396,
+    "via": "Via Carlo Amoretti",
+    "civico": null,
+    "quartiere": "Municipio 9",
+    "incrocio": null
+  },
+  {
+    "id": "B-178",
+    "zona": "area-b",
+    "codice": 178,
+    "nome": "Val Lagarina",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.520957,
+    "lng": 9.135858,
+    "via": "Via Val Lagarina",
+    "civico": "44",
+    "quartiere": "Vialba",
+    "incrocio": {
+      "via": "Via Michele Lessona",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-179",
+    "zona": "area-b",
+    "codice": 179,
+    "nome": "Cogne",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.515565,
+    "lng": 9.124778,
+    "via": "Via Cogne",
+    "civico": null,
+    "quartiere": "Roserio",
+    "incrocio": {
+      "via": "Via Giovanni Battista Grassi",
+      "distanza": 103
+    }
+  },
+  {
+    "id": "B-180",
+    "zona": "area-b",
+    "codice": 180,
+    "nome": "Monsignor Romero 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.463223,
+    "lng": 9.0856,
+    "via": "Via Monsignor Oscar Arnulfo Romero",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Seguro",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-181",
+    "zona": "area-b",
+    "codice": 181,
+    "nome": "Frosinone",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.462563,
+    "lng": 9.082021,
+    "via": "Via Frosinone",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Seguro",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "B-182",
+    "zona": "area-b",
+    "codice": 182,
+    "nome": "Cusago",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.459209,
+    "lng": 9.075266,
+    "via": "Via Cusago",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": null
+  },
+  {
+    "id": "B-184",
+    "zona": "area-b",
+    "codice": 184,
+    "nome": "Aldo Rossi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.485527,
+    "lng": 9.148792,
+    "via": "Via Aldo Rossi",
+    "civico": "8",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Rotatoria Herbert Kilpin",
+      "distanza": 44
+    }
+  },
+  {
+    "id": "B-185",
+    "zona": "area-b",
+    "codice": 185,
+    "nome": "San Bernardo 3",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.417214,
+    "lng": 9.237374,
+    "via": "4351_54906",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via San Bernardo",
+      "distanza": 72
+    }
+  },
+  {
+    "id": "B-186",
+    "zona": "area-b",
+    "codice": 186,
+    "nome": "Cascina Merlata 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.512621,
+    "lng": 9.104908,
+    "via": "Via Pier Paolo Pasolini",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": null
+  },
+  {
+    "id": "B-187",
+    "zona": "area-b",
+    "codice": 187,
+    "nome": "Pecori Giraldi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.441031,
+    "lng": 9.232762,
+    "via": "Via Guglielmo Pecori Giraldi",
+    "civico": null,
+    "quartiere": "Lodi - Corvetto",
+    "incrocio": {
+      "via": "Via Vincenzo Toffetti",
+      "distanza": 37
+    }
+  },
+  {
+    "id": "B-188",
+    "zona": "area-b",
+    "codice": 188,
+    "nome": "Sulmona",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.44473,
+    "lng": 9.229168,
+    "via": "Via Sulmona",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Tertulliano",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-189",
+    "zona": "area-b",
+    "codice": 189,
+    "nome": "Monte Cimone",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.450605,
+    "lng": 9.228968,
+    "via": "Via Monte Cimone",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Varsavia",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "B-190",
+    "zona": "area-b",
+    "codice": 190,
+    "nome": "Cadibona",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.453711,
+    "lng": 9.228857,
+    "via": "Via Cadibona",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Gaspare Vismara",
+      "distanza": 30
+    }
+  },
+  {
+    "id": "B-191",
+    "zona": "area-b",
+    "codice": 191,
+    "nome": "Lombroso 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.456269,
+    "lng": 9.228837,
+    "via": "Via Cesare Lombroso",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Gaspare Vismara",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "B-192",
+    "zona": "area-b",
+    "codice": 192,
+    "nome": "Lombroso 2",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.456155,
+    "lng": 9.232869,
+    "via": "Via Cesare Lombroso",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": null
+  },
+  {
+    "id": "B-193",
+    "zona": "area-b",
+    "codice": 193,
+    "nome": "Bonfadini",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.448562,
+    "lng": 9.228892,
+    "via": "Via Bonfadini",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Varsavia",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-194",
+    "zona": "area-b",
+    "codice": 194,
+    "nome": "Gaggia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.438592,
+    "lng": 9.233819,
+    "via": "Via privata Pietro Gaggia",
+    "civico": "22",
+    "quartiere": "Lodi - Corvetto",
+    "incrocio": {
+      "via": "Via Vincenzo Toffetti",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "B-195",
+    "zona": "area-b",
+    "codice": 195,
+    "nome": "Cascina Merlata 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.511781,
+    "lng": 9.105142,
+    "via": "Via Pier Paolo Pasolini",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Strada Statale 11 Padana Superiore",
+      "distanza": 51
+    }
+  },
+  {
+    "id": "B-197",
+    "zona": "area-b",
+    "codice": 197,
+    "nome": "Viserba",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.521524,
+    "lng": 9.22467,
+    "via": "Via privata Viserba",
+    "civico": "10",
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via privata Miramare",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "B-198",
+    "zona": "area-b",
+    "codice": 198,
+    "nome": "Borsa",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.504561,
+    "lng": 9.095785,
+    "via": "Via Mario Borsa",
+    "civico": null,
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Francesco Cilea",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "B-199",
+    "zona": "area-b",
+    "codice": 199,
+    "nome": "Cilea",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.504495,
+    "lng": 9.095259,
+    "via": "Via Francesco Cilea",
+    "civico": "156",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Mario Borsa",
+      "distanza": 30
+    }
+  },
+  {
+    "id": "B-200",
+    "zona": "area-b",
+    "codice": 200,
+    "nome": "Bardolino",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.427703,
+    "lng": 9.140074,
+    "via": "Via Bardolino",
+    "civico": "30",
+    "quartiere": "Boffalora",
+    "incrocio": {
+      "via": "Via Valpolicella",
+      "distanza": 66
+    }
+  },
+  {
+    "id": "B-201",
+    "zona": "area-b",
+    "codice": 201,
+    "nome": "Valpolicella",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.427474,
+    "lng": 9.139332,
+    "via": "Via Valpolicella",
+    "civico": "3",
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Bardolino",
+      "distanza": 11
+    }
+  },
+  {
+    "id": "B-202",
+    "zona": "area-b",
+    "codice": 202,
+    "nome": "Passo Rolle",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.486988,
+    "lng": 9.247506,
+    "via": "Via Passo Rolle",
+    "civico": null,
+    "quartiere": "Parco Lambro - Cimiano",
+    "incrocio": {
+      "via": "Via Rombon",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-203",
+    "zona": "area-b",
+    "codice": 203,
+    "nome": "Padre Morelli",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 493 del 18 Dicembre 2019",
+    "lat": 45.492015,
+    "lng": 9.253034,
+    "via": "Via Padre Ludovico Morell S.J.",
+    "civico": null,
+    "quartiere": "Parco Lambro - Cimiano",
+    "incrocio": {
+      "via": "Viale Turchia",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "B-902",
+    "zona": "area-b",
+    "codice": 902,
+    "nome": "Miramare",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.521271,
+    "lng": 9.227013,
+    "via": "Via privata Miramare",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Viale Monza",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "B-904",
+    "zona": "area-b",
+    "codice": 904,
+    "nome": "Bensi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.447273,
+    "lng": 9.121063,
+    "via": "Via Val Bavona",
+    "civico": null,
+    "quartiere": "Municipio 6",
+    "incrocio": {
+      "via": "Via Bisceglie",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "B-905",
+    "zona": "area-b",
+    "codice": 905,
+    "nome": "Puricelli Guerra",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.508619,
+    "lng": 9.255247,
+    "via": "Via Giuseppe Puricelli Guerra",
+    "civico": null,
+    "quartiere": "Parco Lambro - Cimiano",
+    "incrocio": {
+      "via": "Via Angelo Rizzoli",
+      "distanza": 5
+    }
+  },
+  {
+    "id": "B-906",
+    "zona": "area-b",
+    "codice": 906,
+    "nome": "Pindaro",
+    "stato": "IN PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.516578,
+    "lng": 9.22923,
+    "via": "Via Pindaro",
+    "civico": null,
+    "quartiere": "Municipio 2",
+    "incrocio": {
+      "via": "Via Alceo",
+      "distanza": 83
+    }
+  },
+  {
+    "id": "B-907",
+    "zona": "area-b",
+    "codice": 907,
+    "nome": "Appennini 3",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.505832,
+    "lng": 9.097118,
+    "via": "Via Appennini",
+    "civico": "199",
+    "quartiere": "Municipio 8 di Milano",
+    "incrocio": {
+      "via": "Via Gallarate",
+      "distanza": 117
+    }
+  },
+  {
+    "id": "B-940",
+    "zona": "area-b",
+    "codice": 940,
+    "nome": "Silla",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.494734,
+    "lng": 9.075983,
+    "via": "Via Lucio Cornelio Silla",
+    "civico": null,
+    "quartiere": "Figino",
+    "incrocio": null
+  },
+  {
+    "id": "B-941",
+    "zona": "area-b",
+    "codice": 941,
+    "nome": "Turbigo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.489619,
+    "lng": 9.071674,
+    "via": "Via Madre Virginia Besozzi",
+    "civico": null,
+    "quartiere": "Figino",
+    "incrocio": {
+      "via": "Via Novara",
+      "distanza": 10
+    }
+  },
+  {
+    "id": "B-951",
+    "zona": "area-b",
+    "codice": 951,
+    "nome": "Betulle",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.452984,
+    "lng": 9.086031,
+    "via": "Via delle Betulle",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via degli Ippocastani",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "B-952",
+    "zona": "area-b",
+    "codice": 952,
+    "nome": "Abeti",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.452432,
+    "lng": 9.084921,
+    "via": "Via degli Abeti",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via degli Ippocastani",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-953",
+    "zona": "area-b",
+    "codice": 953,
+    "nome": "Salici 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.451199,
+    "lng": 9.081079,
+    "via": "Via dei Salici",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via degli Ippocastani",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "B-954",
+    "zona": "area-b",
+    "codice": 954,
+    "nome": "Salici 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.451978,
+    "lng": 9.078864,
+    "via": "Via dei Salici",
+    "civico": "5d",
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via degli Ulivi",
+      "distanza": 6
+    }
+  },
+  {
+    "id": "B-955",
+    "zona": "area-b",
+    "codice": 955,
+    "nome": "Ontani",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.454629,
+    "lng": 9.077997,
+    "via": "Via degli Ontani",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via degli Ulivi",
+      "distanza": 10
+    }
+  },
+  {
+    "id": "B-956",
+    "zona": "area-b",
+    "codice": 956,
+    "nome": "Ulivi 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.455409,
+    "lng": 9.078508,
+    "via": "Via degli Ulivi",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Antonio Mosca",
+      "distanza": 36
+    }
+  },
+  {
+    "id": "B-957",
+    "zona": "area-b",
+    "codice": 957,
+    "nome": "Ulivi 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.453517,
+    "lng": 9.086441,
+    "via": "Via degli Ulivi",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Cavalcavia Giuseppe Luraghi",
+      "distanza": 24
+    }
+  },
+  {
+    "id": "B-961",
+    "zona": "area-b",
+    "codice": 961,
+    "nome": "Mosca",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.455736,
+    "lng": 9.078246,
+    "via": "Via Antonio Mosca",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via degli Ulivi",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-962",
+    "zona": "area-b",
+    "codice": 962,
+    "nome": "Monti",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.449287,
+    "lng": 9.070664,
+    "via": "Via Giuseppe Monti",
+    "civico": null,
+    "quartiere": "Muggiano",
+    "incrocio": {
+      "via": "Via Muggiano",
+      "distanza": 36
+    }
+  },
+  {
+    "id": "B-963",
+    "zona": "area-b",
+    "codice": 963,
+    "nome": "Jemolo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.448998,
+    "lng": 9.067235,
+    "via": "Via Arturo Carlo Jemolo",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Antonio Mosca",
+      "distanza": 14
+    }
+  },
+  {
+    "id": "B-964",
+    "zona": "area-b",
+    "codice": 964,
+    "nome": "Muggiano",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.448579,
+    "lng": 9.069026,
+    "via": "Via Muggiano",
+    "civico": null,
+    "quartiere": "Municipio 7",
+    "incrocio": {
+      "via": "Via Guascona",
+      "distanza": 94
+    }
+  },
+  {
+    "id": "B-970",
+    "zona": "area-b",
+    "codice": 970,
+    "nome": "San Bernardo 1",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.418116,
+    "lng": 9.237336,
+    "via": "Via San Bernardo",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": {
+      "via": "Via Sant'Arialdo",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "B-971",
+    "zona": "area-b",
+    "codice": 971,
+    "nome": "San Bernardo 2",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.414658,
+    "lng": 9.241301,
+    "via": "Via San Bernardo",
+    "civico": null,
+    "quartiere": "Municipio 5",
+    "incrocio": null
+  },
+  {
+    "id": "B-981",
+    "zona": "area-b",
+    "codice": 981,
+    "nome": "Vittorini 1",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.444251,
+    "lng": 9.266431,
+    "via": "Via Camaldoli",
+    "civico": "2",
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Elio Vittorini",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "B-982",
+    "zona": "area-b",
+    "codice": 982,
+    "nome": "Parea",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.444393,
+    "lng": 9.262212,
+    "via": "Via Elio Vittorini",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Carlo Parea",
+      "distanza": 8
+    }
+  },
+  {
+    "id": "B-983",
+    "zona": "area-b",
+    "codice": 983,
+    "nome": "Vittorini 2",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.444199,
+    "lng": 9.260407,
+    "via": "3379_59882",
+    "civico": null,
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Elio Vittorini",
+      "distanza": 9
+    }
+  },
+  {
+    "id": "B-984",
+    "zona": "area-b",
+    "codice": 984,
+    "nome": "Camaldoli",
+    "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+    "attivo": false,
+    "autorizzazione": "Decreto 255 del 4 giugno 2021",
+    "lat": 45.43746,
+    "lng": 9.266137,
+    "via": "Via Camaldoli",
+    "civico": "60",
+    "quartiere": "Municipio 4",
+    "incrocio": {
+      "via": "Via Rainer Maria Rilke",
+      "distanza": 47
+    }
+  },
+  {
+    "id": "C-57",
+    "zona": "area-c",
+    "codice": 57,
+    "nome": "Porta Tenaglia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.477615,
+    "lng": 9.181736,
+    "via": "Via di Porta Tenaglia",
+    "civico": "8",
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Piazzale Biancamano",
+      "distanza": 33
+    }
+  },
+  {
+    "id": "C-58",
+    "zona": "area-c",
+    "codice": 58,
+    "nome": "Legnano",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.476948,
+    "lng": 9.181095,
+    "via": "Via Legnano",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Elvezia",
+      "distanza": 61
+    }
+  },
+  {
+    "id": "C-59",
+    "zona": "area-c",
+    "codice": 59,
+    "nome": "Moscova",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.478283,
+    "lng": 9.181903,
+    "via": "Piazzale Biancamano",
+    "civico": null,
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Via della Moscova",
+      "distanza": 5
+    }
+  },
+  {
+    "id": "C-60",
+    "zona": "area-c",
+    "codice": 60,
+    "nome": "Volta",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.480523,
+    "lng": 9.182925,
+    "via": "Via Alessandro Volta",
+    "civico": "20",
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Bastioni di Porta Volta",
+      "distanza": 38
+    }
+  },
+  {
+    "id": "C-61",
+    "zona": "area-c",
+    "codice": 61,
+    "nome": "Garibaldi",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.480148,
+    "lng": 9.18653,
+    "via": "Corso Giuseppe Garibaldi",
+    "civico": "127",
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Piazza Venticinque Aprile",
+      "distanza": 32
+    }
+  },
+  {
+    "id": "C-62",
+    "zona": "area-c",
+    "codice": 62,
+    "nome": "Milazzo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.479921,
+    "lng": 9.187839,
+    "via": "Via Milazzo",
+    "civico": "12",
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Piazza Venticinque Aprile",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "C-63",
+    "zona": "area-c",
+    "codice": 63,
+    "nome": "Castelfidardo",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.479456,
+    "lng": 9.191497,
+    "via": "Via Castelfidardo",
+    "civico": "15",
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Piazzale Principessa Clotilde",
+      "distanza": 31
+    }
+  },
+  {
+    "id": "C-64",
+    "zona": "area-c",
+    "codice": 64,
+    "nome": "Turati",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.47722,
+    "lng": 9.195749,
+    "via": "Piazza della Repubblica",
+    "civico": null,
+    "quartiere": "Brera",
+    "incrocio": {
+      "via": "Via Filippo Turati",
+      "distanza": 9
+    }
+  },
+  {
+    "id": "C-65",
+    "zona": "area-c",
+    "codice": 65,
+    "nome": "Venezia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.474,
+    "lng": 9.204511,
+    "via": "Corso Venezia",
+    "civico": "56",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazza Guglielmo Oberdan",
+      "distanza": 26
+    }
+  },
+  {
+    "id": "C-66",
+    "zona": "area-c",
+    "codice": 66,
+    "nome": "Baretti",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.471545,
+    "lng": 9.205038,
+    "via": "Via Giuseppe Baretti",
+    "civico": "3",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Luigi Majno",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "C-67",
+    "zona": "area-c",
+    "codice": 67,
+    "nome": "Vitali",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.470842,
+    "lng": 9.205063,
+    "via": "Via Luigi Vitali",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Via Cappuccini",
+      "distanza": 10
+    }
+  },
+  {
+    "id": "C-68",
+    "zona": "area-c",
+    "codice": 68,
+    "nome": "Rossini",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.469437,
+    "lng": 9.205282,
+    "via": "Via Gioacchino Rossini",
+    "civico": "6",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Luigi Majno",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "C-69",
+    "zona": "area-c",
+    "codice": 69,
+    "nome": "Monforte",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.467746,
+    "lng": 9.205464,
+    "via": "Corso Monforte",
+    "civico": "45",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazza del Tricolore",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "C-70",
+    "zona": "area-c",
+    "codice": 70,
+    "nome": "Mascagni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.466514,
+    "lng": 9.205585,
+    "via": "Via Pietro Mascagni",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Bianca Maria",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "C-71",
+    "zona": "area-c",
+    "codice": 71,
+    "nome": "Porta Vittoria",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.462396,
+    "lng": 9.206366,
+    "via": "Corso di Porta Vittoria",
+    "civico": "53",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazza Cinque Giornate",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "C-72",
+    "zona": "area-c",
+    "codice": 72,
+    "nome": "Besana",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.460103,
+    "lng": 9.206074,
+    "via": "Via Enrico Besana",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Regina Margherita",
+      "distanza": 27
+    }
+  },
+  {
+    "id": "C-73",
+    "zona": "area-c",
+    "codice": 73,
+    "nome": "Lamarmora",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.457392,
+    "lng": 9.204114,
+    "via": "Via Alfonso Lamarmora",
+    "civico": "33",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Emilio Caldara",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "C-74",
+    "zona": "area-c",
+    "codice": 74,
+    "nome": "Curtatone",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.455151,
+    "lng": 9.202753,
+    "via": "Via Curtatone",
+    "civico": "25",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Emilio Caldara",
+      "distanza": 26
+    }
+  },
+  {
+    "id": "C-75",
+    "zona": "area-c",
+    "codice": 75,
+    "nome": "Porta Romana",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.452565,
+    "lng": 9.201568,
+    "via": "Corso di Porta Romana",
+    "civico": "131",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Angelo Filippetti",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "C-76",
+    "zona": "area-c",
+    "codice": 76,
+    "nome": "Cabrini",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.452297,
+    "lng": 9.198915,
+    "via": "Via Madre Cabrini",
+    "civico": "11",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Angelo Filippetti",
+      "distanza": 23
+    }
+  },
+  {
+    "id": "C-77",
+    "zona": "area-c",
+    "codice": 77,
+    "nome": "Porta Vigentina",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.452307,
+    "lng": 9.196445,
+    "via": "Corso di Porta Vigentina",
+    "civico": "35",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Beatrice d'Este",
+      "distanza": 28
+    }
+  },
+  {
+    "id": "C-78",
+    "zona": "area-c",
+    "codice": 78,
+    "nome": "Bianca Di Savoia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.452288,
+    "lng": 9.191054,
+    "via": "Via Bianca di Savoia",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Beatrice d'Este",
+      "distanza": 19
+    }
+  },
+  {
+    "id": "C-79",
+    "zona": "area-c",
+    "codice": 79,
+    "nome": "Melegnano",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.452368,
+    "lng": 9.188655,
+    "via": "Via Melegnano",
+    "civico": "10",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Beatrice d'Este",
+      "distanza": 17
+    }
+  },
+  {
+    "id": "C-80",
+    "zona": "area-c",
+    "codice": 80,
+    "nome": "Italia",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.45259,
+    "lng": 9.186817,
+    "via": "Corso Italia",
+    "civico": "49",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazzale di Porta Lodovica",
+      "distanza": 12
+    }
+  },
+  {
+    "id": "C-81",
+    "zona": "area-c",
+    "codice": 81,
+    "nome": "Aurispa",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.452808,
+    "lng": 9.184412,
+    "via": "Via Giovanni Aurispa",
+    "civico": "7",
+    "quartiere": "Ticinese",
+    "incrocio": {
+      "via": "Viale Gian Galeazzo",
+      "distanza": 16
+    }
+  },
+  {
+    "id": "C-82",
+    "zona": "area-c",
+    "codice": 82,
+    "nome": "Porta Ticinese",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.453255,
+    "lng": 9.180274,
+    "via": "Corso di Porta Ticinese",
+    "civico": null,
+    "quartiere": "Ticinese",
+    "incrocio": {
+      "via": "Piazza Ventiquattro Maggio",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "C-83",
+    "zona": "area-c",
+    "codice": 83,
+    "nome": "Panzeri",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.453211,
+    "lng": 9.178377,
+    "via": "Via Pietro Panzeri",
+    "civico": "15",
+    "quartiere": "Ticinese",
+    "incrocio": {
+      "via": "Viale Gabriele d'Annunzio",
+      "distanza": 19
+    }
+  },
+  {
+    "id": "C-84",
+    "zona": "area-c",
+    "codice": 84,
+    "nome": "Ronzoni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.454332,
+    "lng": 9.176284,
+    "via": "Via Gaetano Ronzoni",
+    "civico": null,
+    "quartiere": "Ticinese",
+    "incrocio": {
+      "via": "Viale Gabriele d'Annunzio",
+      "distanza": 29
+    }
+  },
+  {
+    "id": "C-85",
+    "zona": "area-c",
+    "codice": 85,
+    "nome": "Genova",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.455983,
+    "lng": 9.173769,
+    "via": "Piazzale Antonio Cantore",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Corso Genova",
+      "distanza": 7
+    }
+  },
+  {
+    "id": "C-86",
+    "zona": "area-c",
+    "codice": 86,
+    "nome": "Ausonio",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.457607,
+    "lng": 9.171372,
+    "via": "Via Ausonio",
+    "civico": "26",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Via San Calocero",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "C-87",
+    "zona": "area-c",
+    "codice": 87,
+    "nome": "Sant'Agostino",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.458653,
+    "lng": 9.169753,
+    "via": "Piazza Sant'Agostino",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Via Numa Pompilio",
+      "distanza": 22
+    }
+  },
+  {
+    "id": "C-88",
+    "zona": "area-c",
+    "codice": 88,
+    "nome": "Servio Tullio",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.459318,
+    "lng": 9.168622,
+    "via": "Via Servio Tullio",
+    "civico": "4",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Papiniano",
+      "distanza": 28
+    }
+  },
+  {
+    "id": "C-89",
+    "zona": "area-c",
+    "codice": 89,
+    "nome": "Olivetani",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.460319,
+    "lng": 9.166913,
+    "via": "Via degli Olivetani",
+    "civico": "21",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Papiniano",
+      "distanza": 21
+    }
+  },
+  {
+    "id": "C-90",
+    "zona": "area-c",
+    "codice": 90,
+    "nome": "Bandello",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.462839,
+    "lng": 9.165292,
+    "via": "Via Matteo Bandello",
+    "civico": "22n04",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale di Porta Vercellina",
+      "distanza": 24
+    }
+  },
+  {
+    "id": "C-91",
+    "zona": "area-c",
+    "codice": 91,
+    "nome": "San Vittore",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.46464,
+    "lng": 9.165995,
+    "via": "Via San Vittore",
+    "civico": "49",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale di Porta Vercellina",
+      "distanza": 33
+    }
+  },
+  {
+    "id": "C-92",
+    "zona": "area-c",
+    "codice": 92,
+    "nome": "Magenta",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.46595,
+    "lng": 9.166377,
+    "via": "Corso Magenta",
+    "civico": "87",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Via Aurelio Saffi",
+      "distanza": 25
+    }
+  },
+  {
+    "id": "C-93",
+    "zona": "area-c",
+    "codice": 93,
+    "nome": "Boccaccio",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.46747,
+    "lng": 9.166924,
+    "via": "Via Giovanni Boccaccio",
+    "civico": "47",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazza della Conciliazione",
+      "distanza": 20
+    }
+  },
+  {
+    "id": "C-94",
+    "zona": "area-c",
+    "codice": 94,
+    "nome": "Xx Settembre",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.467772,
+    "lng": 9.166858,
+    "via": "Via Venti Settembre",
+    "civico": "24",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazza della Conciliazione",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "C-95",
+    "zona": "area-c",
+    "codice": 95,
+    "nome": "Bazzoni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.467898,
+    "lng": 9.166435,
+    "via": "Via Gian Battista Bazzoni",
+    "civico": "14",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Piazza della Conciliazione",
+      "distanza": 15
+    }
+  },
+  {
+    "id": "C-96",
+    "zona": "area-c",
+    "codice": 96,
+    "nome": "Mascheroni",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.469424,
+    "lng": 9.166059,
+    "via": "Via Lorenzo Mascheroni",
+    "civico": "12",
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Largo Monsignor Giuseppe Bicchierai",
+      "distanza": 1
+    }
+  },
+  {
+    "id": "C-97",
+    "zona": "area-c",
+    "codice": 97,
+    "nome": "Monti",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.470916,
+    "lng": 9.169088,
+    "via": "Via Vincenzo Monti",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Via Francesco Petrarca",
+      "distanza": 18
+    }
+  },
+  {
+    "id": "C-98",
+    "zona": "area-c",
+    "codice": 98,
+    "nome": "Milton",
+    "stato": "ATTIVI E SANZIONANTI",
+    "attivo": true,
+    "autorizzazione": null,
+    "lat": 45.473807,
+    "lng": 9.170103,
+    "via": "Via Mario Pagano",
+    "civico": null,
+    "quartiere": "Municipio 1",
+    "incrocio": {
+      "via": "Viale Giovanni Milton",
+      "distanza": 1
+    }
+  }
+]

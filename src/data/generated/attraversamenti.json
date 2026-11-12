@@ -1,0 +1,7301 @@
+[
+  {
+    "id": "X1",
+    "via": "Via Ferruccio Parri",
+    "tipoStrada": "secondary_link",
+    "direzione": "solo ingresso",
+    "esito": "senza-varco",
+    "lat": 45.45343,
+    "lng": 9.094427,
+    "varcoVicino": {
+      "id": "B-89",
+      "nome": "Gozzoli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 262
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      8311347
+    ]
+  },
+  {
+    "id": "X2",
+    "via": "Via Rosa Bianca",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.43105,
+    "lng": 9.165986,
+    "varcoVicino": {
+      "id": "B-109",
+      "nome": "Don Rodrigo",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 451
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      24692756,
+      24692763
+    ]
+  },
+  {
+    "id": "X3",
+    "via": "Via Don Luigi Palazzolo",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.490245,
+    "lng": 9.143817,
+    "varcoVicino": {
+      "id": "B-147",
+      "nome": "Achille Papa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 176
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      25306448,
+      564004473,
+      25306448
+    ]
+  },
+  {
+    "id": "X4",
+    "via": null,
+    "tipoStrada": "trunk_link",
+    "direzione": "solo ingresso",
+    "esito": "senza-varco",
+    "lat": 45.509761,
+    "lng": 9.129232,
+    "varcoVicino": {
+      "id": "B-53",
+      "nome": "Stephenson 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 333
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      33840175
+    ]
+  },
+  {
+    "id": "X5",
+    "via": "Via Molinetto",
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.493688,
+    "lng": 9.062787,
+    "varcoVicino": {
+      "id": "B-941",
+      "nome": "Turbigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 827
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      62440132
+    ]
+  },
+  {
+    "id": "X6",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.449603,
+    "lng": 9.072683,
+    "varcoVicino": {
+      "id": "B-962",
+      "nome": "Monti",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 161
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      98004441
+    ]
+  },
+  {
+    "id": "X7",
+    "via": "Via Selvanesco",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "senza-varco",
+    "lat": 45.420127,
+    "lng": 9.203521,
+    "varcoVicino": {
+      "id": "B-114",
+      "nome": "Ripamonti",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 443
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      109078712
+    ]
+  },
+  {
+    "id": "X8",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.528935,
+    "lng": 9.15662,
+    "varcoVicino": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 500
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      112523866
+    ]
+  },
+  {
+    "id": "X9",
+    "via": "Via Rozzano",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.404493,
+    "lng": 9.166327,
+    "varcoVicino": {
+      "id": "B-111",
+      "nome": "Baroni",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 547
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      125835752
+    ]
+  },
+  {
+    "id": "X10",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.473674,
+    "lng": 9.0828,
+    "varcoVicino": {
+      "id": "B-81",
+      "nome": "Airaghi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 146
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      141531132
+    ]
+  },
+  {
+    "id": "X11",
+    "via": "Sopraelevata Renato Serra",
+    "tipoStrada": "trunk",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.487344,
+    "lng": 9.147279,
+    "varcoVicino": {
+      "id": "B-184",
+      "nome": "Aldo Rossi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 234
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      184631417,
+      184631419,
+      53568990,
+      184631418
+    ]
+  },
+  {
+    "id": "X12",
+    "via": null,
+    "tipoStrada": "primary_link",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.487354,
+    "lng": 9.147264,
+    "varcoVicino": {
+      "id": "B-184",
+      "nome": "Aldo Rossi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 235
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      249751954,
+      290813320
+    ]
+  },
+  {
+    "id": "X13",
+    "via": "Via Ferruccio Parri",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.455225,
+    "lng": 9.087371,
+    "varcoVicino": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 130
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      262527378,
+      1385710099
+    ]
+  },
+  {
+    "id": "X14",
+    "via": "Via Fratelli Fraschini",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.415992,
+    "lng": 9.181173,
+    "varcoVicino": {
+      "id": "B-163",
+      "nome": "Banfi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 1293
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      265524064
+    ]
+  },
+  {
+    "id": "X15",
+    "via": "Via Selvanesco",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.415052,
+    "lng": 9.176977,
+    "varcoVicino": {
+      "id": "B-163",
+      "nome": "Banfi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 952
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      271883901
+    ]
+  },
+  {
+    "id": "X16",
+    "via": "Via George Orwell",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "senza-varco",
+    "lat": 45.431941,
+    "lng": 9.241675,
+    "varcoVicino": {
+      "id": "B-125",
+      "nome": "Rogoredo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 438
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      272564754
+    ]
+  },
+  {
+    "id": "X17",
+    "via": "Via Giorgio Stephenson",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.508394,
+    "lng": 9.129766,
+    "varcoVicino": {
+      "id": "B-53",
+      "nome": "Stephenson 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 460
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      272627260,
+      272627260,
+      284193876
+    ]
+  },
+  {
+    "id": "X18",
+    "via": "Via Carlo Amoretti",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.520193,
+    "lng": 9.144791,
+    "varcoVicino": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 137
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      273256363,
+      273256363
+    ]
+  },
+  {
+    "id": "X19",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.488876,
+    "lng": 9.145147,
+    "varcoVicino": {
+      "id": "B-147",
+      "nome": "Achille Papa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 242
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      275757750,
+      436399135,
+      651943408
+    ]
+  },
+  {
+    "id": "X20",
+    "via": "Viale Achille Papa",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.490277,
+    "lng": 9.143776,
+    "varcoVicino": {
+      "id": "B-147",
+      "nome": "Achille Papa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 176
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      290898297,
+      275000190,
+      275000197
+    ]
+  },
+  {
+    "id": "X21",
+    "via": "Via Lucio Cornelio Silla",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.491378,
+    "lng": 9.081802,
+    "varcoVicino": {
+      "id": "B-77",
+      "nome": "Novara Trenno",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 581
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      301285883
+    ]
+  },
+  {
+    "id": "X22",
+    "via": "Via Seguro",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.463877,
+    "lng": 9.07761,
+    "varcoVicino": {
+      "id": "B-181",
+      "nome": "Frosinone",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 374
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      302382146
+    ]
+  },
+  {
+    "id": "X23",
+    "via": "Via Ignazio Gardella",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.487255,
+    "lng": 9.147849,
+    "varcoVicino": {
+      "id": "B-184",
+      "nome": "Aldo Rossi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 206
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      320302727,
+      354843063,
+      354843061
+    ]
+  },
+  {
+    "id": "X24",
+    "via": null,
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.492759,
+    "lng": 9.130093,
+    "varcoVicino": {
+      "id": "B-62",
+      "nome": "Sant'Elia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 184
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      502941917,
+      502941921,
+      502941917,
+      502941921
+    ]
+  },
+  {
+    "id": "X25",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.439643,
+    "lng": 9.125143,
+    "varcoVicino": {
+      "id": "B-98",
+      "nome": "Lodovico Il Moro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 191
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      613918432
+    ]
+  },
+  {
+    "id": "X26",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.462524,
+    "lng": 9.075792,
+    "varcoVicino": {
+      "id": "B-182",
+      "nome": "Cusago",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 371
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      687480835
+    ]
+  },
+  {
+    "id": "X27",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.452194,
+    "lng": 9.117693,
+    "varcoVicino": {
+      "id": "B-95",
+      "nome": "Ciconi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 225
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      867770214
+    ]
+  },
+  {
+    "id": "X28",
+    "via": "Via Bardolino",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.425422,
+    "lng": 9.140733,
+    "varcoVicino": {
+      "id": "B-201",
+      "nome": "Valpolicella",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 253
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      879189666,
+      879189666
+    ]
+  },
+  {
+    "id": "X29",
+    "via": "Via Toledo",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.437558,
+    "lng": 9.253538,
+    "varcoVicino": {
+      "id": "B-127",
+      "nome": "Futurismo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 514
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      904111699,
+      904111699,
+      1467220016
+    ]
+  },
+  {
+    "id": "X30",
+    "via": "Via Manduria",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "senza-varco",
+    "lat": 45.402778,
+    "lng": 9.183219,
+    "varcoVicino": {
+      "id": "B-113",
+      "nome": "Manduria",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 653
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1113075490
+    ]
+  },
+  {
+    "id": "X31",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.44352,
+    "lng": 9.256853,
+    "varcoVicino": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 287
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1141420965,
+      1482132828,
+      1141420965
+    ]
+  },
+  {
+    "id": "X32",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.482397,
+    "lng": 9.255627,
+    "varcoVicino": {
+      "id": "B-4",
+      "nome": "Caduti Di Marcinelle",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 266
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1327625409
+    ]
+  },
+  {
+    "id": "X33",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.482674,
+    "lng": 9.256804,
+    "varcoVicino": {
+      "id": "B-4",
+      "nome": "Caduti Di Marcinelle",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 170
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1327625409
+    ]
+  },
+  {
+    "id": "X34",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.438216,
+    "lng": 9.254313,
+    "varcoVicino": {
+      "id": "B-127",
+      "nome": "Futurismo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 589
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1467220015,
+      1467220015
+    ]
+  },
+  {
+    "id": "X35",
+    "via": "Via Toledo",
+    "tipoStrada": "tertiary",
+    "direzione": "solo ingresso",
+    "esito": "senza-varco",
+    "lat": 45.438033,
+    "lng": 9.251228,
+    "varcoVicino": {
+      "id": "B-127",
+      "nome": "Futurismo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 354
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1467220016
+    ]
+  },
+  {
+    "id": "X36",
+    "via": "Via Toledo",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "senza-varco",
+    "lat": 45.440736,
+    "lng": 9.256227,
+    "varcoVicino": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 505
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1469385271
+    ]
+  },
+  {
+    "id": "X37",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "senza-varco",
+    "lat": 45.445711,
+    "lng": 9.256494,
+    "varcoVicino": {
+      "id": "B-128",
+      "nome": "Ungheria",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 186
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1482132826,
+      1482132825
+    ]
+  },
+  {
+    "id": "X38",
+    "via": "Viale Enrico Fermi",
+    "tipoStrada": "trunk_link",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.516767,
+    "lng": 9.178373,
+    "varcoVicino": {
+      "id": "B-164",
+      "nome": "Brusuglio",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 42
+    },
+    "varcoCopertura": {
+      "id": "B-164",
+      "nome": "Brusuglio",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      23429926,
+      163655063
+    ]
+  },
+  {
+    "id": "X39",
+    "via": "Via privata Viserba",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.521615,
+    "lng": 9.224757,
+    "varcoVicino": {
+      "id": "B-197",
+      "nome": "Viserba",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-197",
+      "nome": "Viserba",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      24526695
+    ]
+  },
+  {
+    "id": "X40",
+    "via": "Via Brunico",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.517964,
+    "lng": 9.226162,
+    "varcoVicino": {
+      "id": "B-152",
+      "nome": "Brunico",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-152",
+      "nome": "Brunico",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      24807332
+    ]
+  },
+  {
+    "id": "X41",
+    "via": "Via Quinto Romano",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.473006,
+    "lng": 9.080188,
+    "varcoVicino": {
+      "id": "B-82",
+      "nome": "Quinto Romano",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 41
+    },
+    "varcoCopertura": {
+      "id": "B-82",
+      "nome": "Quinto Romano",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      24957411
+    ]
+  },
+  {
+    "id": "X42",
+    "via": "Via Sant'Uguzzone",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.5204,
+    "lng": 9.226898,
+    "varcoVicino": {
+      "id": "B-154",
+      "nome": "Sant'Uguzzone",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-154",
+      "nome": "Sant'Uguzzone",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      25723629
+    ]
+  },
+  {
+    "id": "X43",
+    "via": "Via Pindaro",
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.516637,
+    "lng": 9.229289,
+    "varcoVicino": {
+      "id": "B-906",
+      "nome": "Pindaro",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-906",
+      "nome": "Pindaro",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      25725101
+    ]
+  },
+  {
+    "id": "X44",
+    "via": "Via Bardolino",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.426542,
+    "lng": 9.140079,
+    "varcoVicino": {
+      "id": "B-201",
+      "nome": "Valpolicella",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 119
+    },
+    "varcoCopertura": {
+      "id": "B-201",
+      "nome": "Valpolicella",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      25893445,
+      25893445,
+      25893445
+    ]
+  },
+  {
+    "id": "X45",
+    "via": "Via Bardolino",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.427318,
+    "lng": 9.139459,
+    "varcoVicino": {
+      "id": "B-201",
+      "nome": "Valpolicella",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 20
+    },
+    "varcoCopertura": {
+      "id": "B-201",
+      "nome": "Valpolicella",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      25893445,
+      266581305
+    ]
+  },
+  {
+    "id": "X46",
+    "via": "Via Ettore Majorana",
+    "tipoStrada": "tertiary_link",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.513886,
+    "lng": 9.182628,
+    "varcoVicino": {
+      "id": "B-167",
+      "nome": "Majorana",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 25
+    },
+    "varcoCopertura": {
+      "id": "B-167",
+      "nome": "Majorana",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      29318865,
+      927792937,
+      927792937
+    ]
+  },
+  {
+    "id": "X47",
+    "via": "Viale Berbera",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.525736,
+    "lng": 9.20226,
+    "varcoVicino": {
+      "id": "B-176",
+      "nome": "Berbera",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 27
+    },
+    "varcoCopertura": {
+      "id": "B-176",
+      "nome": "Berbera",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      32512714,
+      278896175,
+      266137585
+    ]
+  },
+  {
+    "id": "X48",
+    "via": "Via privata Galeno",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.519542,
+    "lng": 9.226631,
+    "varcoVicino": {
+      "id": "B-153",
+      "nome": "Galeno",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 25
+    },
+    "varcoCopertura": {
+      "id": "B-153",
+      "nome": "Galeno",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      43762240
+    ]
+  },
+  {
+    "id": "X49",
+    "via": "Via privata Miramare",
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.521233,
+    "lng": 9.227157,
+    "varcoVicino": {
+      "id": "B-902",
+      "nome": "Miramare",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-902",
+      "nome": "Miramare",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      43762247
+    ]
+  },
+  {
+    "id": "X50",
+    "via": "Viale Renato Serra",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.485626,
+    "lng": 9.144487,
+    "varcoVicino": {
+      "id": "B-138",
+      "nome": "Serra 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 18
+    },
+    "varcoCopertura": {
+      "id": "B-138",
+      "nome": "Serra 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      48425357,
+      53825790,
+      285081339,
+      356929696
+    ]
+  },
+  {
+    "id": "X51",
+    "via": "Cavalcavia Renato Serra",
+    "tipoStrada": "trunk",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.485777,
+    "lng": 9.145007,
+    "varcoVicino": {
+      "id": "B-144",
+      "nome": "Serra 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-144",
+      "nome": "Serra 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      48426030,
+      184631420,
+      48426030,
+      184631420
+    ]
+  },
+  {
+    "id": "X52",
+    "via": "Via Alessandro Algardi",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.484301,
+    "lng": 9.146207,
+    "varcoVicino": {
+      "id": "B-173",
+      "nome": "Algardi",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-173",
+      "nome": "Algardi",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      48426121
+    ]
+  },
+  {
+    "id": "X53",
+    "via": "Via Fantasio Piccoli",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.47712,
+    "lng": 9.085396,
+    "varcoVicino": {
+      "id": "B-80",
+      "nome": "Piccoli",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-80",
+      "nome": "Piccoli",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      59995451,
+      59995431
+    ]
+  },
+  {
+    "id": "X54",
+    "via": "Via Camaldoli",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.444262,
+    "lng": 9.266433,
+    "varcoVicino": {
+      "id": "B-981",
+      "nome": "Vittorini 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 1
+    },
+    "varcoCopertura": {
+      "id": "B-981",
+      "nome": "Vittorini 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      71527912
+    ]
+  },
+  {
+    "id": "X55",
+    "via": "Via Carlo Parea",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.444447,
+    "lng": 9.262292,
+    "varcoVicino": {
+      "id": "B-982",
+      "nome": "Parea",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-982",
+      "nome": "Parea",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      71527915
+    ]
+  },
+  {
+    "id": "X56",
+    "via": "Via El Alamein",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.518225,
+    "lng": 9.154332,
+    "varcoVicino": {
+      "id": "B-158",
+      "nome": "El Alamein",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 11
+    },
+    "varcoCopertura": {
+      "id": "B-158",
+      "nome": "El Alamein",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      112426236
+    ]
+  },
+  {
+    "id": "X57",
+    "via": "Via Ettore Majorana",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.51411,
+    "lng": 9.179835,
+    "varcoVicino": {
+      "id": "B-42",
+      "nome": "Fermi",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 69
+    },
+    "varcoCopertura": {
+      "id": "B-42",
+      "nome": "Fermi",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      130754521,
+      130754521,
+      130754522
+    ]
+  },
+  {
+    "id": "X58",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.524142,
+    "lng": 9.192039,
+    "varcoVicino": {
+      "id": "B-35",
+      "nome": "Ornato",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 42
+    },
+    "varcoCopertura": {
+      "id": "B-35",
+      "nome": "Ornato",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      140656532
+    ]
+  },
+  {
+    "id": "X59",
+    "via": "Viale Enrico Fermi",
+    "tipoStrada": "primary_link",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.516169,
+    "lng": 9.1789,
+    "varcoVicino": {
+      "id": "B-165",
+      "nome": "Sbarbaro",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 37
+    },
+    "varcoCopertura": {
+      "id": "B-165",
+      "nome": "Sbarbaro",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      163655062,
+      23429924
+    ]
+  },
+  {
+    "id": "X60",
+    "via": "Via Ugo Mulas",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.518914,
+    "lng": 9.243024,
+    "varcoVicino": {
+      "id": "B-149",
+      "nome": "Mulas",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 23
+    },
+    "varcoCopertura": {
+      "id": "B-149",
+      "nome": "Mulas",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      173067261
+    ]
+  },
+  {
+    "id": "X61",
+    "via": "Via Camaldoli",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.437426,
+    "lng": 9.266097,
+    "varcoVicino": {
+      "id": "B-984",
+      "nome": "Camaldoli",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-984",
+      "nome": "Camaldoli",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      217872787
+    ]
+  },
+  {
+    "id": "X62",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.437226,
+    "lng": 9.266033,
+    "varcoVicino": {
+      "id": "B-984",
+      "nome": "Camaldoli",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 27
+    },
+    "varcoCopertura": {
+      "id": "B-984",
+      "nome": "Camaldoli",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      217875532,
+      1508726337
+    ]
+  },
+  {
+    "id": "X63",
+    "via": "Via Cesare Lombroso",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.456209,
+    "lng": 9.23195,
+    "varcoVicino": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 72
+    },
+    "varcoCopertura": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      232580863
+    ]
+  },
+  {
+    "id": "X64",
+    "via": "Via Cesare Lombroso",
+    "tipoStrada": "service",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.456294,
+    "lng": 9.232145,
+    "varcoVicino": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 59
+    },
+    "varcoCopertura": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      264284714
+    ]
+  },
+  {
+    "id": "X65",
+    "via": "Via Camillo Sbarbaro",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.516503,
+    "lng": 9.178801,
+    "varcoVicino": {
+      "id": "B-165",
+      "nome": "Sbarbaro",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-165",
+      "nome": "Sbarbaro",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      265633853
+    ]
+  },
+  {
+    "id": "X66",
+    "via": "Via Luigi Ornato",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.524146,
+    "lng": 9.192265,
+    "varcoVicino": {
+      "id": "B-35",
+      "nome": "Ornato",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 39
+    },
+    "varcoCopertura": {
+      "id": "B-35",
+      "nome": "Ornato",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      266137178,
+      281327818
+    ]
+  },
+  {
+    "id": "X67",
+    "via": "Via Cardinale Pietro Maffi",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.518218,
+    "lng": 9.154267,
+    "varcoVicino": {
+      "id": "B-159",
+      "nome": "Maffi",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-159",
+      "nome": "Maffi",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      266150144
+    ]
+  },
+  {
+    "id": "X68",
+    "via": "Via Carlo Amoretti",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.520835,
+    "lng": 9.147431,
+    "varcoVicino": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 82
+    },
+    "varcoCopertura": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      284320212,
+      284320218
+    ]
+  },
+  {
+    "id": "X69",
+    "via": "Via Carlo Amoretti",
+    "tipoStrada": "service",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.520679,
+    "lng": 9.147198,
+    "varcoVicino": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 63
+    },
+    "varcoCopertura": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      284320226,
+      284320227
+    ]
+  },
+  {
+    "id": "X70",
+    "via": "Via Carlo Amoretti",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.520799,
+    "lng": 9.146786,
+    "varcoVicino": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 32
+    },
+    "varcoCopertura": {
+      "id": "B-177",
+      "nome": "Amoretti",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      284320229
+    ]
+  },
+  {
+    "id": "X71",
+    "via": "Via Ignazio Gardella",
+    "tipoStrada": "service",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.485557,
+    "lng": 9.145515,
+    "varcoVicino": {
+      "id": "B-144",
+      "nome": "Serra 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 31
+    },
+    "varcoCopertura": {
+      "id": "B-144",
+      "nome": "Serra 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      285081345,
+      285081346
+    ]
+  },
+  {
+    "id": "X72",
+    "via": "Viale Enrico Fermi",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.513726,
+    "lng": 9.179353,
+    "varcoVicino": {
+      "id": "B-42",
+      "nome": "Fermi",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-42",
+      "nome": "Fermi",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      302377434,
+      172787581
+    ]
+  },
+  {
+    "id": "X73",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.456158,
+    "lng": 9.232125,
+    "varcoVicino": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 58
+    },
+    "varcoCopertura": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      305718803
+    ]
+  },
+  {
+    "id": "X74",
+    "via": "Viale Monza",
+    "tipoStrada": "service",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.519363,
+    "lng": 9.226575,
+    "varcoVicino": {
+      "id": "B-153",
+      "nome": "Galeno",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 28
+    },
+    "varcoCopertura": {
+      "id": "B-153",
+      "nome": "Galeno",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      306105059,
+      306105059
+    ]
+  },
+  {
+    "id": "X75",
+    "via": "Via Adriano",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.51788,
+    "lng": 9.243314,
+    "varcoVicino": {
+      "id": "B-20",
+      "nome": "Adriano",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-20",
+      "nome": "Adriano",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      542772741,
+      542772743
+    ]
+  },
+  {
+    "id": "X76",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.444299,
+    "lng": 9.261112,
+    "varcoVicino": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 56
+    },
+    "varcoCopertura": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      689469932
+    ]
+  },
+  {
+    "id": "X77",
+    "via": "Via Brusuglio",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.516451,
+    "lng": 9.178469,
+    "varcoVicino": {
+      "id": "B-164",
+      "nome": "Brusuglio",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 29
+    },
+    "varcoCopertura": {
+      "id": "B-164",
+      "nome": "Brusuglio",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      926161056,
+      186886044
+    ]
+  },
+  {
+    "id": "X78",
+    "via": "Via Ettore Majorana",
+    "tipoStrada": "tertiary",
+    "direzione": "solo ingresso",
+    "esito": "varco-non-attivo",
+    "lat": 45.513835,
+    "lng": 9.182289,
+    "varcoVicino": {
+      "id": "B-167",
+      "nome": "Majorana",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-167",
+      "nome": "Majorana",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      927792936
+    ]
+  },
+  {
+    "id": "X79",
+    "via": "Via Vittorio De Sica",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.477391,
+    "lng": 9.085572,
+    "varcoVicino": {
+      "id": "B-79",
+      "nome": "De Sica",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-79",
+      "nome": "De Sica",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      1148156949,
+      1148156948
+    ]
+  },
+  {
+    "id": "X80",
+    "via": "Via Ernesto Breda",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.522762,
+    "lng": 9.222902,
+    "varcoVicino": {
+      "id": "B-27",
+      "nome": "Breda",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-27",
+      "nome": "Breda",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      1201879469,
+      1201879470
+    ]
+  },
+  {
+    "id": "X81",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "varco-non-attivo",
+    "lat": 45.486201,
+    "lng": 9.146516,
+    "varcoVicino": {
+      "id": "B-144",
+      "nome": "Serra 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 113
+    },
+    "varcoCopertura": {
+      "id": "B-144",
+      "nome": "Serra 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      1448012172
+    ]
+  },
+  {
+    "id": "X82",
+    "via": null,
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "varco-non-attivo",
+    "lat": 45.444227,
+    "lng": 9.260522,
+    "varcoVicino": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      1467617056,
+      1467617057
+    ]
+  },
+  {
+    "id": "X83",
+    "via": "Viale Lodovico Scarampo",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.482693,
+    "lng": 9.14857,
+    "varcoVicino": {
+      "id": "B-142",
+      "nome": "Scarampo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-142",
+      "nome": "Scarampo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      4524741,
+      1448033616
+    ]
+  },
+  {
+    "id": "X84",
+    "via": "Viale Famagosta",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.437744,
+    "lng": 9.170601,
+    "varcoVicino": {
+      "id": "B-104",
+      "nome": "Schiavoni 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 73
+    },
+    "varcoCopertura": {
+      "id": "B-104",
+      "nome": "Schiavoni 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      4824796,
+      273261077
+    ]
+  },
+  {
+    "id": "X85",
+    "via": "Via Giovanni Battista Grassi",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.517336,
+    "lng": 9.12015,
+    "varcoVicino": {
+      "id": "B-52",
+      "nome": "Grassi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-52",
+      "nome": "Grassi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      4857312,
+      284299203,
+      257000671
+    ]
+  },
+  {
+    "id": "X86",
+    "via": "Via Palmanova",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.495877,
+    "lng": 9.23552,
+    "varcoVicino": {
+      "id": "B-11",
+      "nome": "Palmanova 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-11",
+      "nome": "Palmanova 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      8421642
+    ]
+  },
+  {
+    "id": "X87",
+    "via": "Via Bovisasca",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.513788,
+    "lng": 9.157317,
+    "varcoVicino": {
+      "id": "B-47",
+      "nome": "Bovisasca",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 7
+    },
+    "varcoCopertura": {
+      "id": "B-47",
+      "nome": "Bovisasca",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      10751354,
+      114202874
+    ]
+  },
+  {
+    "id": "X88",
+    "via": "Via dell'Assunta",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.433059,
+    "lng": 9.207659,
+    "varcoVicino": {
+      "id": "B-117",
+      "nome": "Assunta",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 154
+    },
+    "varcoCopertura": {
+      "id": "B-117",
+      "nome": "Assunta",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      23252594
+    ]
+  },
+  {
+    "id": "X89",
+    "via": "Via Daniele Comboni",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.527915,
+    "lng": 9.18083,
+    "varcoVicino": {
+      "id": "B-37",
+      "nome": "Pasta",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 208
+    },
+    "varcoCopertura": {
+      "id": "B-36",
+      "nome": "Comboni",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      23461734,
+      236820994
+    ]
+  },
+  {
+    "id": "X90",
+    "via": "Via Vincenzo da Seregno",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.522227,
+    "lng": 9.17379,
+    "varcoVicino": {
+      "id": "B-40",
+      "nome": "Vincenzo Da Seregno 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 37
+    },
+    "varcoCopertura": {
+      "id": "B-40",
+      "nome": "Vincenzo Da Seregno 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      23838736,
+      30733873,
+      196523916,
+      267213604
+    ]
+  },
+  {
+    "id": "X91",
+    "via": "Via Passo Pordoi",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.434528,
+    "lng": 9.209657,
+    "varcoVicino": {
+      "id": "B-118",
+      "nome": "Passo Pordoi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 7
+    },
+    "varcoCopertura": {
+      "id": "B-118",
+      "nome": "Passo Pordoi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      24245851
+    ]
+  },
+  {
+    "id": "X92",
+    "via": "Piazza Sire Raul",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.492448,
+    "lng": 9.229663,
+    "varcoVicino": {
+      "id": "B-13",
+      "nome": "Clitumno",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 27
+    },
+    "varcoCopertura": {
+      "id": "B-13",
+      "nome": "Clitumno",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      24348359,
+      48820365
+    ]
+  },
+  {
+    "id": "X93",
+    "via": "Via Alessandro Mazzucotelli",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.461862,
+    "lng": 9.244765,
+    "varcoVicino": {
+      "id": "B-131",
+      "nome": "Mazzucotelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-131",
+      "nome": "Mazzucotelli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      24396814
+    ]
+  },
+  {
+    "id": "X94",
+    "via": "Via Lucio Giunio Columella",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.516937,
+    "lng": 9.226632,
+    "varcoVicino": {
+      "id": "B-24",
+      "nome": "Columella",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-24",
+      "nome": "Columella",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      24728152
+    ]
+  },
+  {
+    "id": "X95",
+    "via": "Via Padova",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.512848,
+    "lng": 9.25689,
+    "varcoVicino": {
+      "id": "B-17",
+      "nome": "Padova",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 87
+    },
+    "varcoCopertura": {
+      "id": "B-17",
+      "nome": "Padova",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      24749977,
+      23694644
+    ]
+  },
+  {
+    "id": "X96",
+    "via": "Via Monsignor Oscar Arnulfo Romero",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.463567,
+    "lng": 9.085508,
+    "varcoVicino": {
+      "id": "B-83",
+      "nome": "Monsignor Romero 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-83",
+      "nome": "Monsignor Romero 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      24957363,
+      273924036
+    ]
+  },
+  {
+    "id": "X97",
+    "via": "Via Val Lagarina",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.521025,
+    "lng": 9.13595,
+    "varcoVicino": {
+      "id": "B-178",
+      "nome": "Val Lagarina",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 10
+    },
+    "varcoCopertura": {
+      "id": "B-178",
+      "nome": "Val Lagarina",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      25310724
+    ]
+  },
+  {
+    "id": "X98",
+    "via": "Via Spezia",
+    "tipoStrada": "primary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.437881,
+    "lng": 9.171414,
+    "varcoVicino": {
+      "id": "B-105",
+      "nome": "La Spezia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 71
+    },
+    "varcoCopertura": {
+      "id": "B-105",
+      "nome": "La Spezia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      25609654
+    ]
+  },
+  {
+    "id": "X99",
+    "via": "Via Buccinasco",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.437195,
+    "lng": 9.126352,
+    "varcoVicino": {
+      "id": "B-99",
+      "nome": "Buccinasco",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 33
+    },
+    "varcoCopertura": {
+      "id": "B-99",
+      "nome": "Buccinasco",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      25893882,
+      25893884
+    ]
+  },
+  {
+    "id": "X100",
+    "via": "Via Sesto San Giovanni",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.519893,
+    "lng": 9.218868,
+    "varcoVicino": {
+      "id": "B-28",
+      "nome": "Sesto San Giovanni",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 6
+    },
+    "varcoCopertura": {
+      "id": "B-28",
+      "nome": "Sesto San Giovanni",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      25896339,
+      182237207
+    ]
+  },
+  {
+    "id": "X101",
+    "via": "Via Ponale",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.522541,
+    "lng": 9.209417,
+    "varcoVicino": {
+      "id": "B-175",
+      "nome": "Ponale",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-32",
+      "nome": "Fulvio Testi 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      26193687
+    ]
+  },
+  {
+    "id": "X102",
+    "via": "Sottopasso Schiavoni",
+    "tipoStrada": "secondary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.437497,
+    "lng": 9.173118,
+    "varcoVicino": {
+      "id": "B-108",
+      "nome": "Schiavoni 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 20
+    },
+    "varcoCopertura": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      28778238
+    ]
+  },
+  {
+    "id": "X103",
+    "via": "Sottopasso Schiavoni",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.437629,
+    "lng": 9.170568,
+    "varcoVicino": {
+      "id": "B-104",
+      "nome": "Schiavoni 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 71
+    },
+    "varcoCopertura": {
+      "id": "B-104",
+      "nome": "Schiavoni 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30453203,
+      30453196
+    ]
+  },
+  {
+    "id": "X104",
+    "via": "Via Vincenzo da Seregno",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.522075,
+    "lng": 9.174011,
+    "varcoVicino": {
+      "id": "B-40",
+      "nome": "Vincenzo Da Seregno 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 44
+    },
+    "varcoCopertura": {
+      "id": "B-40",
+      "nome": "Vincenzo Da Seregno 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30734149
+    ]
+  },
+  {
+    "id": "X105",
+    "via": "Via Vincenzo da Seregno",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.52213,
+    "lng": 9.173138,
+    "varcoVicino": {
+      "id": "B-41",
+      "nome": "Vincenzo Da Seregno 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 30
+    },
+    "varcoCopertura": {
+      "id": "B-41",
+      "nome": "Vincenzo Da Seregno 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30734153
+    ]
+  },
+  {
+    "id": "X106",
+    "via": "Via Giuditta Pasta",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.529039,
+    "lng": 9.178691,
+    "varcoVicino": {
+      "id": "B-37",
+      "nome": "Pasta",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-37",
+      "nome": "Pasta",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30927929
+    ]
+  },
+  {
+    "id": "X107",
+    "via": "Via Barnaba Oriani",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.500481,
+    "lng": 9.13012,
+    "varcoVicino": {
+      "id": "B-55",
+      "nome": "Oriani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-55",
+      "nome": "Oriani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      31010737,
+      31010738
+    ]
+  },
+  {
+    "id": "X108",
+    "via": "Via Teobaldo Ciconi",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.453826,
+    "lng": 9.115896,
+    "varcoVicino": {
+      "id": "B-95",
+      "nome": "Ciconi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 25
+    },
+    "varcoCopertura": {
+      "id": "B-95",
+      "nome": "Ciconi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      32913826,
+      32913827
+    ]
+  },
+  {
+    "id": "X109",
+    "via": "Via privata Capodistria",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.497493,
+    "lng": 9.130871,
+    "varcoVicino": {
+      "id": "B-65",
+      "nome": "Gallarate 3",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 23
+    },
+    "varcoCopertura": {
+      "id": "B-65",
+      "nome": "Gallarate 3",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      33839803
+    ]
+  },
+  {
+    "id": "X110",
+    "via": "Via Alessandro Litta Modignani",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.520989,
+    "lng": 9.151147,
+    "varcoVicino": {
+      "id": "B-44",
+      "nome": "Litta Modignani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 81
+    },
+    "varcoCopertura": {
+      "id": "B-44",
+      "nome": "Litta Modignani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      36876954,
+      174969572
+    ]
+  },
+  {
+    "id": "X111",
+    "via": "Via Sulmona",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.44471,
+    "lng": 9.229327,
+    "varcoVicino": {
+      "id": "B-188",
+      "nome": "Sulmona",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-188",
+      "nome": "Sulmona",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      37041500,
+      325769555
+    ]
+  },
+  {
+    "id": "X112",
+    "via": "Via Carlo Feltrinelli",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.429496,
+    "lng": 9.24662,
+    "varcoVicino": {
+      "id": "B-126",
+      "nome": "Feltrinelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 32
+    },
+    "varcoCopertura": {
+      "id": "B-126",
+      "nome": "Feltrinelli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      41898623,
+      41904046
+    ]
+  },
+  {
+    "id": "X113",
+    "via": "Via Lelio Basso",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.403487,
+    "lng": 9.17362,
+    "varcoVicino": {
+      "id": "B-151",
+      "nome": "Basso",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 4
+    },
+    "varcoCopertura": {
+      "id": "B-151",
+      "nome": "Basso",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      43071918,
+      211201055
+    ]
+  },
+  {
+    "id": "X114",
+    "via": "Via Gianluigi Banfi",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.413521,
+    "lng": 9.164904,
+    "varcoVicino": {
+      "id": "B-163",
+      "nome": "Banfi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-163",
+      "nome": "Banfi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      43073117,
+      271462284
+    ]
+  },
+  {
+    "id": "X115",
+    "via": "Via Alessandro Duroni",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.413245,
+    "lng": 9.164952,
+    "varcoVicino": {
+      "id": "B-163",
+      "nome": "Banfi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 38
+    },
+    "varcoCopertura": {
+      "id": "B-163",
+      "nome": "Banfi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      43091316
+    ]
+  },
+  {
+    "id": "X116",
+    "via": "Via Mecenate",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.447658,
+    "lng": 9.255415,
+    "varcoVicino": {
+      "id": "B-129",
+      "nome": "Mecenate",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 63
+    },
+    "varcoCopertura": {
+      "id": "B-129",
+      "nome": "Mecenate",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      44815354,
+      281797484,
+      284902690
+    ]
+  },
+  {
+    "id": "X117",
+    "via": "Cavalcavia Giuseppe Luraghi",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.45499,
+    "lng": 9.088297,
+    "varcoVicino": {
+      "id": "B-88",
+      "nome": "Luraghi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 91
+    },
+    "varcoCopertura": {
+      "id": "B-88",
+      "nome": "Luraghi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      45270888,
+      45270880
+    ]
+  },
+  {
+    "id": "X118",
+    "via": "Via Giuseppe Monti",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.449142,
+    "lng": 9.070719,
+    "varcoVicino": {
+      "id": "B-962",
+      "nome": "Monti",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-962",
+      "nome": "Monti",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      45271567
+    ]
+  },
+  {
+    "id": "X119",
+    "via": "Via Zurigo",
+    "tipoStrada": "secondary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.455609,
+    "lng": 9.115056,
+    "varcoVicino": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 73
+    },
+    "varcoCopertura": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      46567986
+    ]
+  },
+  {
+    "id": "X120",
+    "via": "Via Bisceglie",
+    "tipoStrada": "secondary_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.455269,
+    "lng": 9.115144,
+    "varcoVicino": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 111
+    },
+    "varcoCopertura": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      46568259
+    ]
+  },
+  {
+    "id": "X121",
+    "via": "Via Basilea",
+    "tipoStrada": "secondary_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.455868,
+    "lng": 9.115321,
+    "varcoVicino": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 59
+    },
+    "varcoCopertura": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      46568358
+    ]
+  },
+  {
+    "id": "X122",
+    "via": "Via Antonio Sant'Elia",
+    "tipoStrada": "trunk_link",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.49165,
+    "lng": 9.12993,
+    "varcoVicino": {
+      "id": "B-62",
+      "nome": "Sant'Elia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 60
+    },
+    "varcoCopertura": {
+      "id": "B-62",
+      "nome": "Sant'Elia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      49875164,
+      4012146
+    ]
+  },
+  {
+    "id": "X123",
+    "via": "Via Fabrizio Quattrocchi",
+    "tipoStrada": "secondary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.49521,
+    "lng": 9.129655,
+    "varcoVicino": {
+      "id": "B-61",
+      "nome": "Quattrocchi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 30
+    },
+    "varcoCopertura": {
+      "id": "B-61",
+      "nome": "Quattrocchi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      50576165
+    ]
+  },
+  {
+    "id": "X124",
+    "via": "Viale Alcide De Gasperi",
+    "tipoStrada": "primary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.495429,
+    "lng": 9.129589,
+    "varcoVicino": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 23
+    },
+    "varcoCopertura": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      50576172
+    ]
+  },
+  {
+    "id": "X125",
+    "via": "Via Basilea",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.45579,
+    "lng": 9.114945,
+    "varcoVicino": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 51
+    },
+    "varcoCopertura": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      51863710,
+      264623836
+    ]
+  },
+  {
+    "id": "X126",
+    "via": "Via Appennini",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.505926,
+    "lng": 9.097522,
+    "varcoVicino": {
+      "id": "B-907",
+      "nome": "Appennini 3",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 33
+    },
+    "varcoCopertura": {
+      "id": "B-907",
+      "nome": "Appennini 3",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      52523119,
+      30335487,
+      422920351
+    ]
+  },
+  {
+    "id": "X127",
+    "via": "Via Gallarate",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.497379,
+    "lng": 9.130869,
+    "varcoVicino": {
+      "id": "B-65",
+      "nome": "Gallarate 3",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-65",
+      "nome": "Gallarate 3",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      53565542,
+      24946402
+    ]
+  },
+  {
+    "id": "X128",
+    "via": "Via Gallarate",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.497847,
+    "lng": 9.129841,
+    "varcoVicino": {
+      "id": "B-59",
+      "nome": "Gallarate 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 18
+    },
+    "varcoCopertura": {
+      "id": "B-59",
+      "nome": "Gallarate 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      53568987,
+      24946647
+    ]
+  },
+  {
+    "id": "X129",
+    "via": "Viale Certosa",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.499145,
+    "lng": 9.131171,
+    "varcoVicino": {
+      "id": "B-67",
+      "nome": "Certosa 3",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-67",
+      "nome": "Certosa 3",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      55200556
+    ]
+  },
+  {
+    "id": "X130",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.501511,
+    "lng": 9.130791,
+    "varcoVicino": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 103
+    },
+    "varcoCopertura": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      56234092,
+      56234092
+    ]
+  },
+  {
+    "id": "X131",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.502225,
+    "lng": 9.130997,
+    "varcoVicino": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 26
+    },
+    "varcoCopertura": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      56234092
+    ]
+  },
+  {
+    "id": "X132",
+    "via": "Collegamento Via Eritrea - Via Stephenson",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.511412,
+    "lng": 9.125546,
+    "varcoVicino": {
+      "id": "B-53",
+      "nome": "Stephenson 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-53",
+      "nome": "Stephenson 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      57402991,
+      57404643
+    ]
+  },
+  {
+    "id": "X133",
+    "via": "Viale Achille Papa",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.489256,
+    "lng": 9.14202,
+    "varcoVicino": {
+      "id": "B-147",
+      "nome": "Achille Papa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 6
+    },
+    "varcoCopertura": {
+      "id": "B-147",
+      "nome": "Achille Papa",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      58672720
+    ]
+  },
+  {
+    "id": "X134",
+    "via": "Via Leonardo Cambini",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.493542,
+    "lng": 9.232291,
+    "varcoVicino": {
+      "id": "B-12",
+      "nome": "Cambini",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 29
+    },
+    "varcoCopertura": {
+      "id": "B-12",
+      "nome": "Cambini",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      70187351,
+      70187353
+    ]
+  },
+  {
+    "id": "X135",
+    "via": "Via Ugo Monneret de Villard",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.486565,
+    "lng": 9.246377,
+    "varcoVicino": {
+      "id": "B-5",
+      "nome": "Monneret",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 6
+    },
+    "varcoCopertura": {
+      "id": "B-5",
+      "nome": "Monneret",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      74417511
+    ]
+  },
+  {
+    "id": "X136",
+    "via": "Via Rogoredo",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.429715,
+    "lng": 9.246369,
+    "varcoVicino": {
+      "id": "B-125",
+      "nome": "Rogoredo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-125",
+      "nome": "Rogoredo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      80898360,
+      80898334,
+      272579347
+    ]
+  },
+  {
+    "id": "X137",
+    "via": "Via Giuseppe Puricelli Guerra",
+    "tipoStrada": "service",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.508593,
+    "lng": 9.255288,
+    "varcoVicino": {
+      "id": "B-905",
+      "nome": "Puricelli Guerra",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 4
+    },
+    "varcoCopertura": {
+      "id": "B-905",
+      "nome": "Puricelli Guerra",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      81646195,
+      81646191
+    ]
+  },
+  {
+    "id": "X138",
+    "via": "Via Boffalora",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.425026,
+    "lng": 9.164788,
+    "varcoVicino": {
+      "id": "B-101",
+      "nome": "Rosa Bianca",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-101",
+      "nome": "Rosa Bianca",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      82014357,
+      271472678
+    ]
+  },
+  {
+    "id": "X139",
+    "via": "Via Fabio Massimo",
+    "tipoStrada": "secondary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.431912,
+    "lng": 9.224416,
+    "varcoVicino": {
+      "id": "B-121",
+      "nome": "Fabio Massimo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-121",
+      "nome": "Fabio Massimo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      83277513
+    ]
+  },
+  {
+    "id": "X140",
+    "via": "Viale Alcide De Gasperi",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.49495,
+    "lng": 9.131351,
+    "varcoVicino": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 2
+    },
+    "varcoCopertura": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      85675599
+    ]
+  },
+  {
+    "id": "X141",
+    "via": "Via delle Betulle",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.452888,
+    "lng": 9.0861,
+    "varcoVicino": {
+      "id": "B-951",
+      "nome": "Betulle",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-951",
+      "nome": "Betulle",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86573306
+    ]
+  },
+  {
+    "id": "X142",
+    "via": "Via dei Salici",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.451263,
+    "lng": 9.080994,
+    "varcoVicino": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 10
+    },
+    "varcoCopertura": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86573311
+    ]
+  },
+  {
+    "id": "X143",
+    "via": "Via degli Abeti",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.452339,
+    "lng": 9.084956,
+    "varcoVicino": {
+      "id": "B-952",
+      "nome": "Abeti",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 11
+    },
+    "varcoCopertura": {
+      "id": "B-952",
+      "nome": "Abeti",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86573314
+    ]
+  },
+  {
+    "id": "X144",
+    "via": "Via degli Ontani",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.454603,
+    "lng": 9.077927,
+    "varcoVicino": {
+      "id": "B-955",
+      "nome": "Ontani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 6
+    },
+    "varcoCopertura": {
+      "id": "B-955",
+      "nome": "Ontani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86573320
+    ]
+  },
+  {
+    "id": "X145",
+    "via": "Via degli Ulivi",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.455381,
+    "lng": 9.078488,
+    "varcoVicino": {
+      "id": "B-956",
+      "nome": "Ulivi 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-956",
+      "nome": "Ulivi 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86573334,
+      45271557
+    ]
+  },
+  {
+    "id": "X146",
+    "via": "Viale Teodorico",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.482889,
+    "lng": 9.148773,
+    "varcoVicino": {
+      "id": "B-143",
+      "nome": "Teodorico",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-143",
+      "nome": "Teodorico",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86768949,
+      86768884
+    ]
+  },
+  {
+    "id": "X147",
+    "via": "Via Montefeltro",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.502061,
+    "lng": 9.130806,
+    "varcoVicino": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 42
+    },
+    "varcoCopertura": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      88462603
+    ]
+  },
+  {
+    "id": "X148",
+    "via": "Via Bressanone",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.499266,
+    "lng": 9.129947,
+    "varcoVicino": {
+      "id": "B-58",
+      "nome": "Bressanone",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 28
+    },
+    "varcoCopertura": {
+      "id": "B-58",
+      "nome": "Bressanone",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      88463169
+    ]
+  },
+  {
+    "id": "X149",
+    "via": "Via Raffaele Rubattino",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.477323,
+    "lng": 9.251604,
+    "varcoVicino": {
+      "id": "B-3",
+      "nome": "Rubattino",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 11
+    },
+    "varcoCopertura": {
+      "id": "B-3",
+      "nome": "Rubattino",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      95141872,
+      442999760
+    ]
+  },
+  {
+    "id": "X150",
+    "via": "Via Guglielmo Pecori Giraldi",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.441077,
+    "lng": 9.233141,
+    "varcoVicino": {
+      "id": "B-187",
+      "nome": "Pecori Giraldi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 30
+    },
+    "varcoCopertura": {
+      "id": "B-187",
+      "nome": "Pecori Giraldi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      96610845
+    ]
+  },
+  {
+    "id": "X151",
+    "via": "Via Muggiano",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.448544,
+    "lng": 9.069017,
+    "varcoVicino": {
+      "id": "B-964",
+      "nome": "Muggiano",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 4
+    },
+    "varcoCopertura": {
+      "id": "B-964",
+      "nome": "Muggiano",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      98004443
+    ]
+  },
+  {
+    "id": "X152",
+    "via": "Via Castrovillari",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.455592,
+    "lng": 9.087024,
+    "varcoVicino": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 81
+    },
+    "varcoCopertura": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      98353583
+    ]
+  },
+  {
+    "id": "X153",
+    "via": "Via Antonio Mosca",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.455694,
+    "lng": 9.078211,
+    "varcoVicino": {
+      "id": "B-961",
+      "nome": "Mosca",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-961",
+      "nome": "Mosca",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      98362718,
+      86573293
+    ]
+  },
+  {
+    "id": "X154",
+    "via": "Via Ravenna",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.432025,
+    "lng": 9.223808,
+    "varcoVicino": {
+      "id": "B-120",
+      "nome": "Ravenna",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 24
+    },
+    "varcoCopertura": {
+      "id": "B-120",
+      "nome": "Ravenna",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      102430570,
+      102430583
+    ]
+  },
+  {
+    "id": "X155",
+    "via": "Via Cadibona",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.453746,
+    "lng": 9.229171,
+    "varcoVicino": {
+      "id": "B-190",
+      "nome": "Cadibona",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 25
+    },
+    "varcoCopertura": {
+      "id": "B-190",
+      "nome": "Cadibona",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      109239859,
+      109239878
+    ]
+  },
+  {
+    "id": "X156",
+    "via": null,
+    "tipoStrada": "primary_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.495375,
+    "lng": 9.129302,
+    "varcoVicino": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      110401752
+    ]
+  },
+  {
+    "id": "X157",
+    "via": "Via Rogoredo",
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.42965,
+    "lng": 9.246579,
+    "varcoVicino": {
+      "id": "B-125",
+      "nome": "Rogoredo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 22
+    },
+    "varcoCopertura": {
+      "id": "B-125",
+      "nome": "Rogoredo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      111792573
+    ]
+  },
+  {
+    "id": "X158",
+    "via": "Via Cascina dei Prati",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.51389,
+    "lng": 9.157073,
+    "varcoVicino": {
+      "id": "B-161",
+      "nome": "Cascina Dei Prati",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 16
+    },
+    "varcoCopertura": {
+      "id": "B-47",
+      "nome": "Bovisasca",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      112260105,
+      112260108
+    ]
+  },
+  {
+    "id": "X159",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.520659,
+    "lng": 9.151406,
+    "varcoVicino": {
+      "id": "B-44",
+      "nome": "Litta Modignani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 88
+    },
+    "varcoCopertura": {
+      "id": "B-44",
+      "nome": "Litta Modignani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      112260106
+    ]
+  },
+  {
+    "id": "X160",
+    "via": "Via Assietta",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.516718,
+    "lng": 9.156401,
+    "varcoVicino": {
+      "id": "B-45",
+      "nome": "Assietta",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-45",
+      "nome": "Assietta",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      112426165
+    ]
+  },
+  {
+    "id": "X161",
+    "via": "Via Senigallia",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.528266,
+    "lng": 9.165017,
+    "varcoVicino": {
+      "id": "B-39",
+      "nome": "Senigallia 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 32
+    },
+    "varcoCopertura": {
+      "id": "B-39",
+      "nome": "Senigallia 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      112426195,
+      162242387,
+      267219951
+    ]
+  },
+  {
+    "id": "X162",
+    "via": "Via Achille Marazza",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.516652,
+    "lng": 9.156144,
+    "varcoVicino": {
+      "id": "B-160",
+      "nome": "Marazza",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 10
+    },
+    "varcoCopertura": {
+      "id": "B-45",
+      "nome": "Assietta",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      114311144,
+      255762673
+    ]
+  },
+  {
+    "id": "X163",
+    "via": "Via Bordighera",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.437836,
+    "lng": 9.173726,
+    "varcoVicino": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 20
+    },
+    "varcoCopertura": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      128185641,
+      128185640
+    ]
+  },
+  {
+    "id": "X164",
+    "via": "Via Lucca",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.455086,
+    "lng": 9.111495,
+    "varcoVicino": {
+      "id": "B-92",
+      "nome": "Lucca 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 37
+    },
+    "varcoCopertura": {
+      "id": "B-92",
+      "nome": "Lucca 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      133644920,
+      51863711,
+      133644919
+    ]
+  },
+  {
+    "id": "X165",
+    "via": "Via privata Anassagora",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.516842,
+    "lng": 9.230902,
+    "varcoVicino": {
+      "id": "B-23",
+      "nome": "Anassagora",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-23",
+      "nome": "Anassagora",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      133984629
+    ]
+  },
+  {
+    "id": "X166",
+    "via": "Piazza Sire Raul",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.491924,
+    "lng": 9.229825,
+    "varcoVicino": {
+      "id": "B-15",
+      "nome": "Teodosio",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-15",
+      "nome": "Teodosio",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      135664803,
+      135664997
+    ]
+  },
+  {
+    "id": "X167",
+    "via": "Via Arturo Carlo Jemolo",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.448919,
+    "lng": 9.067267,
+    "varcoVicino": {
+      "id": "B-963",
+      "nome": "Jemolo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-963",
+      "nome": "Jemolo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      138515885
+    ]
+  },
+  {
+    "id": "X168",
+    "via": "Via del Futurismo",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.437368,
+    "lng": 9.248203,
+    "varcoVicino": {
+      "id": "B-127",
+      "nome": "Futurismo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 110
+    },
+    "varcoCopertura": {
+      "id": "B-127",
+      "nome": "Futurismo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      141214186,
+      272589917
+    ]
+  },
+  {
+    "id": "X169",
+    "via": "Viale Fulvio Testi",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.52251,
+    "lng": 9.209434,
+    "varcoVicino": {
+      "id": "B-175",
+      "nome": "Ponale",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-32",
+      "nome": "Fulvio Testi 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      147965162,
+      267058443
+    ]
+  },
+  {
+    "id": "X170",
+    "via": "Via Monte Cimone",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.45065,
+    "lng": 9.229227,
+    "varcoVicino": {
+      "id": "B-189",
+      "nome": "Monte Cimone",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-189",
+      "nome": "Monte Cimone",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      164408659
+    ]
+  },
+  {
+    "id": "X171",
+    "via": "Viale Piero e Alberto Pirelli",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.521117,
+    "lng": 9.214412,
+    "varcoVicino": {
+      "id": "B-29",
+      "nome": "Pirelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-29",
+      "nome": "Pirelli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      174641588
+    ]
+  },
+  {
+    "id": "X172",
+    "via": "Via Arcangelo Corelli",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.471465,
+    "lng": 9.261553,
+    "varcoVicino": {
+      "id": "B-1",
+      "nome": "Corelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 11
+    },
+    "varcoCopertura": {
+      "id": "B-1",
+      "nome": "Corelli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      175291812,
+      94526119
+    ]
+  },
+  {
+    "id": "X173",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.531391,
+    "lng": 9.162154,
+    "varcoVicino": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 33
+    },
+    "varcoCopertura": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      185067792
+    ]
+  },
+  {
+    "id": "X174",
+    "via": "Via Rombon",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.486948,
+    "lng": 9.246298,
+    "varcoVicino": {
+      "id": "B-7",
+      "nome": "Rombon 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-7",
+      "nome": "Rombon 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      187000340
+    ]
+  },
+  {
+    "id": "X175",
+    "via": "Viale Certosa",
+    "tipoStrada": "secondary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.499505,
+    "lng": 9.13071,
+    "varcoVicino": {
+      "id": "B-68",
+      "nome": "Certosa 4",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-68",
+      "nome": "Certosa 4",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      195654893,
+      283846980
+    ]
+  },
+  {
+    "id": "X176",
+    "via": "Viale Monza",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.517032,
+    "lng": 9.225945,
+    "varcoVicino": {
+      "id": "B-25",
+      "nome": "Monza",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-24",
+      "nome": "Columella",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      210250213,
+      268934079
+    ]
+  },
+  {
+    "id": "X177",
+    "via": "Via Giovanni Palatucci",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.436102,
+    "lng": 9.167028,
+    "varcoVicino": {
+      "id": "B-103",
+      "nome": "Palatucci",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 2
+    },
+    "varcoCopertura": {
+      "id": "B-103",
+      "nome": "Palatucci",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      210818711,
+      210818293
+    ]
+  },
+  {
+    "id": "X178",
+    "via": "Via Costantino Baroni",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.403517,
+    "lng": 9.173335,
+    "varcoVicino": {
+      "id": "B-111",
+      "nome": "Baroni",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-111",
+      "nome": "Baroni",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      211197893,
+      211201048
+    ]
+  },
+  {
+    "id": "X179",
+    "via": "Via San Bernardo",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.414574,
+    "lng": 9.241193,
+    "varcoVicino": {
+      "id": "B-971",
+      "nome": "San Bernardo 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-971",
+      "nome": "San Bernardo 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      211265680
+    ]
+  },
+  {
+    "id": "X180",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.416928,
+    "lng": 9.238039,
+    "varcoVicino": {
+      "id": "B-185",
+      "nome": "San Bernardo 3",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 61
+    },
+    "varcoCopertura": {
+      "id": "B-185",
+      "nome": "San Bernardo 3",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      211266136
+    ]
+  },
+  {
+    "id": "X181",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.448522,
+    "lng": 9.228958,
+    "varcoVicino": {
+      "id": "B-193",
+      "nome": "Bonfadini",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 7
+    },
+    "varcoCopertura": {
+      "id": "B-193",
+      "nome": "Bonfadini",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      239550437,
+      264436466
+    ]
+  },
+  {
+    "id": "X182",
+    "via": "Via Gabbro",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.514548,
+    "lng": 9.15724,
+    "varcoVicino": {
+      "id": "B-46",
+      "nome": "Gabbro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-46",
+      "nome": "Gabbro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      257960980
+    ]
+  },
+  {
+    "id": "X183",
+    "via": "Cavalcavia Giovanni Schiavoni",
+    "tipoStrada": "secondary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.437423,
+    "lng": 9.173122,
+    "varcoVicino": {
+      "id": "B-108",
+      "nome": "Schiavoni 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 15
+    },
+    "varcoCopertura": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      260957900
+    ]
+  },
+  {
+    "id": "X184",
+    "via": "Alzaia Naviglio Pavese",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.437239,
+    "lng": 9.174397,
+    "varcoVicino": {
+      "id": "B-107",
+      "nome": "Naviglio Pavese",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 72
+    },
+    "varcoCopertura": {
+      "id": "B-107",
+      "nome": "Naviglio Pavese",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      260957901
+    ]
+  },
+  {
+    "id": "X185",
+    "via": "Via Cesare Lombroso",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.456202,
+    "lng": 9.229133,
+    "varcoVicino": {
+      "id": "B-191",
+      "nome": "Lombroso 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 24
+    },
+    "varcoCopertura": {
+      "id": "B-191",
+      "nome": "Lombroso 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      264284700
+    ]
+  },
+  {
+    "id": "X186",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.455376,
+    "lng": 9.229143,
+    "varcoVicino": {
+      "id": "B-191",
+      "nome": "Lombroso 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 102
+    },
+    "varcoCopertura": {
+      "id": "B-191",
+      "nome": "Lombroso 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      264303330,
+      264303344
+    ]
+  },
+  {
+    "id": "X187",
+    "via": "Via Lorenteggio",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.445932,
+    "lng": 9.124316,
+    "varcoVicino": {
+      "id": "B-96",
+      "nome": "Lorenteggio",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 45
+    },
+    "varcoCopertura": {
+      "id": "B-96",
+      "nome": "Lorenteggio",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      264312436,
+      264312423
+    ]
+  },
+  {
+    "id": "X188",
+    "via": "Via Cusago",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.459207,
+    "lng": 9.075165,
+    "varcoVicino": {
+      "id": "B-182",
+      "nome": "Cusago",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-182",
+      "nome": "Cusago",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      264432586
+    ]
+  },
+  {
+    "id": "X189",
+    "via": "Via Benozzo Gozzoli",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.454393,
+    "lng": 9.092176,
+    "varcoVicino": {
+      "id": "B-89",
+      "nome": "Gozzoli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 68
+    },
+    "varcoCopertura": {
+      "id": "B-89",
+      "nome": "Gozzoli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265012564,
+      265012566
+    ]
+  },
+  {
+    "id": "X190",
+    "via": "Via Ferruccio Parri",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.455127,
+    "lng": 9.088551,
+    "varcoVicino": {
+      "id": "B-88",
+      "nome": "Luraghi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 66
+    },
+    "varcoCopertura": {
+      "id": "B-88",
+      "nome": "Luraghi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265012570,
+      262527378
+    ]
+  },
+  {
+    "id": "X191",
+    "via": "Via Castrovillari",
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.455545,
+    "lng": 9.087118,
+    "varcoVicino": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 89
+    },
+    "varcoCopertura": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265014297
+    ]
+  },
+  {
+    "id": "X192",
+    "via": "Via Francesco Gonin",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.442559,
+    "lng": 9.123875,
+    "varcoVicino": {
+      "id": "B-97",
+      "nome": "Gonin",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 37
+    },
+    "varcoCopertura": {
+      "id": "B-97",
+      "nome": "Gonin",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265020680,
+      265020681
+    ]
+  },
+  {
+    "id": "X193",
+    "via": "Via Pietro Giordani",
+    "tipoStrada": "service",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.442341,
+    "lng": 9.124008,
+    "varcoVicino": {
+      "id": "B-97",
+      "nome": "Gonin",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 45
+    },
+    "varcoCopertura": {
+      "id": "B-97",
+      "nome": "Gonin",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265020690
+    ]
+  },
+  {
+    "id": "X194",
+    "via": "Viale Ungheria",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.447302,
+    "lng": 9.255407,
+    "varcoVicino": {
+      "id": "B-128",
+      "nome": "Ungheria",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 41
+    },
+    "varcoCopertura": {
+      "id": "B-128",
+      "nome": "Ungheria",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265247169,
+      1215811082
+    ]
+  },
+  {
+    "id": "X195",
+    "via": "Raccordo per l'Autostrada del Sole",
+    "tipoStrada": "trunk",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.434027,
+    "lng": 9.235403,
+    "varcoVicino": {
+      "id": "B-122",
+      "nome": "Raccordo Autosole",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 7
+    },
+    "varcoCopertura": {
+      "id": "B-122",
+      "nome": "Raccordo Autosole",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      266322512,
+      161606056
+    ]
+  },
+  {
+    "id": "X196",
+    "via": "Via Carnia",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.495577,
+    "lng": 9.235512,
+    "varcoVicino": {
+      "id": "B-10",
+      "nome": "Carnia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 10
+    },
+    "varcoCopertura": {
+      "id": "B-10",
+      "nome": "Carnia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      266363680,
+      266363682
+    ]
+  },
+  {
+    "id": "X197",
+    "via": "Via Rombon",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.486696,
+    "lng": 9.246325,
+    "varcoVicino": {
+      "id": "B-5",
+      "nome": "Monneret",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 20
+    },
+    "varcoCopertura": {
+      "id": "B-5",
+      "nome": "Monneret",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      266384988,
+      290640246
+    ]
+  },
+  {
+    "id": "X198",
+    "via": "Via Comasina",
+    "tipoStrada": "secondary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.531726,
+    "lng": 9.161916,
+    "varcoVicino": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 74
+    },
+    "varcoCopertura": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      267022266
+    ]
+  },
+  {
+    "id": "X199",
+    "via": "Viale Fulvio Testi",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.522457,
+    "lng": 9.209627,
+    "varcoVicino": {
+      "id": "B-32",
+      "nome": "Fulvio Testi 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 27
+    },
+    "varcoCopertura": {
+      "id": "B-32",
+      "nome": "Fulvio Testi 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      267115580,
+      267058427
+    ]
+  },
+  {
+    "id": "X200",
+    "via": "Viale Sarca",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.521761,
+    "lng": 9.212088,
+    "varcoVicino": {
+      "id": "B-30",
+      "nome": "Sarca",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-30",
+      "nome": "Sarca",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      267115583,
+      263952130
+    ]
+  },
+  {
+    "id": "X201",
+    "via": "Via dei Missaglia",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.402801,
+    "lng": 9.17455,
+    "varcoVicino": {
+      "id": "B-113",
+      "nome": "Manduria",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 28
+    },
+    "varcoCopertura": {
+      "id": "B-113",
+      "nome": "Manduria",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      267264315,
+      271886555
+    ]
+  },
+  {
+    "id": "X202",
+    "via": "Via Boffalora",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.426179,
+    "lng": 9.160342,
+    "varcoVicino": {
+      "id": "B-100",
+      "nome": "Boffalora",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 23
+    },
+    "varcoCopertura": {
+      "id": "B-100",
+      "nome": "Boffalora",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      271449018
+    ]
+  },
+  {
+    "id": "X203",
+    "via": "Via Jan Palach",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.424816,
+    "lng": 9.16493,
+    "varcoVicino": {
+      "id": "B-102",
+      "nome": "Jan Palach",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-102",
+      "nome": "Jan Palach",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      271472686
+    ]
+  },
+  {
+    "id": "X204",
+    "via": "Via Angelo Rizzoli",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.508414,
+    "lng": 9.255164,
+    "varcoVicino": {
+      "id": "B-9",
+      "nome": "Rizzoli",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-905",
+      "nome": "Puricelli Guerra",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      273743723,
+      213932586
+    ]
+  },
+  {
+    "id": "X205",
+    "via": "Via Frosinone",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.46263,
+    "lng": 9.082172,
+    "varcoVicino": {
+      "id": "B-181",
+      "nome": "Frosinone",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-181",
+      "nome": "Frosinone",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      273837540
+    ]
+  },
+  {
+    "id": "X206",
+    "via": "Via Monsignor Oscar Arnulfo Romero",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.463339,
+    "lng": 9.085563,
+    "varcoVicino": {
+      "id": "B-180",
+      "nome": "Monsignor Romero 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-180",
+      "nome": "Monsignor Romero 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      273924035,
+      25851853
+    ]
+  },
+  {
+    "id": "X207",
+    "via": "Via Seguro",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.46347,
+    "lng": 9.085696,
+    "varcoVicino": {
+      "id": "B-84",
+      "nome": "Seguro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 25
+    },
+    "varcoCopertura": {
+      "id": "B-84",
+      "nome": "Seguro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      273924041,
+      273924040
+    ]
+  },
+  {
+    "id": "X208",
+    "via": "Via Gaetano Airaghi",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.474989,
+    "lng": 9.083075,
+    "varcoVicino": {
+      "id": "B-81",
+      "nome": "Airaghi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 6
+    },
+    "varcoCopertura": {
+      "id": "B-81",
+      "nome": "Airaghi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      274389764,
+      274389761
+    ]
+  },
+  {
+    "id": "X209",
+    "via": "Via Novara",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.487722,
+    "lng": 9.074695,
+    "varcoVicino": {
+      "id": "B-941",
+      "nome": "Turbigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 316
+    },
+    "varcoCopertura": {
+      "id": "B-77",
+      "nome": "Novara Trenno",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      274433689,
+      274433644
+    ]
+  },
+  {
+    "id": "X210",
+    "via": "Via Madre Virginia Besozzi",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.489578,
+    "lng": 9.071748,
+    "varcoVicino": {
+      "id": "B-941",
+      "nome": "Turbigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 7
+    },
+    "varcoCopertura": {
+      "id": "B-941",
+      "nome": "Turbigo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      274433695
+    ]
+  },
+  {
+    "id": "X211",
+    "via": "Via Gattamelata",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.485541,
+    "lng": 9.149821,
+    "varcoVicino": {
+      "id": "B-146",
+      "nome": "Gattamelata",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-146",
+      "nome": "Gattamelata",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      276242586,
+      315621462
+    ]
+  },
+  {
+    "id": "X212",
+    "via": "Viale Lodovico Scarampo",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.483115,
+    "lng": 9.147793,
+    "varcoVicino": {
+      "id": "B-140",
+      "nome": "Veniero",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 42
+    },
+    "varcoCopertura": {
+      "id": "B-140",
+      "nome": "Veniero",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      276242600
+    ]
+  },
+  {
+    "id": "X213",
+    "via": "Viale Paolo Onorato Vigliani",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.482351,
+    "lng": 9.147701,
+    "varcoVicino": {
+      "id": "B-141",
+      "nome": "Vigliani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 16
+    },
+    "varcoCopertura": {
+      "id": "B-141",
+      "nome": "Vigliani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283656597,
+      283658490
+    ]
+  },
+  {
+    "id": "X214",
+    "via": "Piazza John Fitzgerald Kennedy",
+    "tipoStrada": "primary_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.495197,
+    "lng": 9.129675,
+    "varcoVicino": {
+      "id": "B-61",
+      "nome": "Quattrocchi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 29
+    },
+    "varcoCopertura": {
+      "id": "B-61",
+      "nome": "Quattrocchi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283832395
+    ]
+  },
+  {
+    "id": "X215",
+    "via": "Viale del Ghisallo",
+    "tipoStrada": "primary_link",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.495596,
+    "lng": 9.129611,
+    "varcoVicino": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 27
+    },
+    "varcoCopertura": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283832408
+    ]
+  },
+  {
+    "id": "X216",
+    "via": "Viale Certosa",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.49991,
+    "lng": 9.130143,
+    "varcoVicino": {
+      "id": "B-57",
+      "nome": "Certosa 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-57",
+      "nome": "Certosa 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283846966,
+      283852221,
+      283846967,
+      283852217
+    ]
+  },
+  {
+    "id": "X217",
+    "via": "Via Giovanni Battista Grassi",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.517268,
+    "lng": 9.120317,
+    "varcoVicino": {
+      "id": "B-52",
+      "nome": "Grassi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 10
+    },
+    "varcoCopertura": {
+      "id": "B-52",
+      "nome": "Grassi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      284299209
+    ]
+  },
+  {
+    "id": "X218",
+    "via": "Via degli Ulivi",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.453434,
+    "lng": 9.086671,
+    "varcoVicino": {
+      "id": "B-957",
+      "nome": "Ulivi 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 20
+    },
+    "varcoCopertura": {
+      "id": "B-957",
+      "nome": "Ulivi 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      290505469,
+      265014860
+    ]
+  },
+  {
+    "id": "X219",
+    "via": "Alzaia Naviglio Pavese",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.42275,
+    "lng": 9.167397,
+    "varcoVicino": {
+      "id": "B-162",
+      "nome": "Naviglio Pavese 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 27
+    },
+    "varcoCopertura": {
+      "id": "B-162",
+      "nome": "Naviglio Pavese 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      294931616
+    ]
+  },
+  {
+    "id": "X220",
+    "via": "Via Aldo Rossi",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.485456,
+    "lng": 9.148855,
+    "varcoVicino": {
+      "id": "B-184",
+      "nome": "Aldo Rossi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-184",
+      "nome": "Aldo Rossi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      320302726
+    ]
+  },
+  {
+    "id": "X221",
+    "via": "Via San Bernardo",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.418203,
+    "lng": 9.237225,
+    "varcoVicino": {
+      "id": "B-970",
+      "nome": "San Bernardo 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-970",
+      "nome": "San Bernardo 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      332644918
+    ]
+  },
+  {
+    "id": "X222",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.511212,
+    "lng": 9.106846,
+    "varcoVicino": {
+      "id": "B-71",
+      "nome": "Jona",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-71",
+      "nome": "Jona",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      338331689,
+      342755852
+    ]
+  },
+  {
+    "id": "X223",
+    "via": "Via Pier Paolo Pasolini",
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.512192,
+    "lng": 9.098723,
+    "varcoVicino": {
+      "id": "B-72",
+      "nome": "Daimler 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 16
+    },
+    "varcoCopertura": {
+      "id": "B-72",
+      "nome": "Daimler 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      340312426
+    ]
+  },
+  {
+    "id": "X224",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.510254,
+    "lng": 9.099397,
+    "varcoVicino": {
+      "id": "B-73",
+      "nome": "Daimler 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 7
+    },
+    "varcoCopertura": {
+      "id": "B-73",
+      "nome": "Daimler 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      341709649
+    ]
+  },
+  {
+    "id": "X225",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.510772,
+    "lng": 9.11411,
+    "varcoVicino": {
+      "id": "B-70",
+      "nome": "Barzaghi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 8
+    },
+    "varcoCopertura": {
+      "id": "B-70",
+      "nome": "Barzaghi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      341764513,
+      400644776
+    ]
+  },
+  {
+    "id": "X226",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.500445,
+    "lng": 9.130939,
+    "varcoVicino": {
+      "id": "B-55",
+      "nome": "Oriani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 76
+    },
+    "varcoCopertura": {
+      "id": "B-55",
+      "nome": "Oriani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      353259929
+    ]
+  },
+  {
+    "id": "X227",
+    "via": "Via Pismonte",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.435973,
+    "lng": 9.214515,
+    "varcoVicino": {
+      "id": "B-119",
+      "nome": "Pismonte",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-119",
+      "nome": "Pismonte",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      405295520
+    ]
+  },
+  {
+    "id": "X228",
+    "via": "Via Giuseppe Ripamonti",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.416323,
+    "lng": 9.205869,
+    "varcoVicino": {
+      "id": "B-114",
+      "nome": "Ripamonti",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 19
+    },
+    "varcoCopertura": {
+      "id": "B-114",
+      "nome": "Ripamonti",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      406993994,
+      406993996
+    ]
+  },
+  {
+    "id": "X229",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.452917,
+    "lng": 9.103392,
+    "varcoVicino": {
+      "id": "B-90",
+      "nome": "Valsesia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 77
+    },
+    "varcoCopertura": {
+      "id": "B-90",
+      "nome": "Valsesia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      493710250,
+      493710250,
+      493710250
+    ]
+  },
+  {
+    "id": "X230",
+    "via": null,
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.512374,
+    "lng": 9.105123,
+    "varcoVicino": {
+      "id": "B-186",
+      "nome": "Cascina Merlata 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 32
+    },
+    "varcoCopertura": {
+      "id": "B-186",
+      "nome": "Cascina Merlata 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      525733013
+    ]
+  },
+  {
+    "id": "X231",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.506678,
+    "lng": 9.100934,
+    "varcoVicino": {
+      "id": "B-74",
+      "nome": "Gallarate 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 104
+    },
+    "varcoCopertura": {
+      "id": "B-74",
+      "nome": "Gallarate 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      525736602
+    ]
+  },
+  {
+    "id": "X232",
+    "via": "Via privata Pietro Gaggia",
+    "tipoStrada": "unclassified",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.438674,
+    "lng": 9.234087,
+    "varcoVicino": {
+      "id": "B-194",
+      "nome": "Gaggia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 23
+    },
+    "varcoCopertura": {
+      "id": "B-194",
+      "nome": "Gaggia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      543319820
+    ]
+  },
+  {
+    "id": "X233",
+    "via": "Piazza Artigianato",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.461674,
+    "lng": 9.24396,
+    "varcoVicino": {
+      "id": "B-132",
+      "nome": "Artigianato",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-132",
+      "nome": "Artigianato",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      567437884,
+      181449323
+    ]
+  },
+  {
+    "id": "X234",
+    "via": "Viale Enrico Forlanini",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.462086,
+    "lng": 9.243725,
+    "varcoVicino": {
+      "id": "B-137",
+      "nome": "Forlanini",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 9
+    },
+    "varcoCopertura": {
+      "id": "B-137",
+      "nome": "Forlanini",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      671767232,
+      257781729
+    ]
+  },
+  {
+    "id": "X235",
+    "via": "Via Giovanni Battista Grassi",
+    "tipoStrada": "secondary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.516923,
+    "lng": 9.120747,
+    "varcoVicino": {
+      "id": "B-52",
+      "nome": "Grassi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 50
+    },
+    "varcoCopertura": {
+      "id": "B-52",
+      "nome": "Grassi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      878663830
+    ]
+  },
+  {
+    "id": "X236",
+    "via": "Via della Chiesa Rossa",
+    "tipoStrada": "primary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.414045,
+    "lng": 9.162704,
+    "varcoVicino": {
+      "id": "B-110",
+      "nome": "Chiesa Rossa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 35
+    },
+    "varcoCopertura": {
+      "id": "B-110",
+      "nome": "Chiesa Rossa",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      926294248
+    ]
+  },
+  {
+    "id": "X237",
+    "via": "Via Manduria",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.40274,
+    "lng": 9.174604,
+    "varcoVicino": {
+      "id": "B-113",
+      "nome": "Manduria",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-113",
+      "nome": "Manduria",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      926294256
+    ]
+  },
+  {
+    "id": "X238",
+    "via": "Via Passo Rolle",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.487026,
+    "lng": 9.247468,
+    "varcoVicino": {
+      "id": "B-202",
+      "nome": "Passo Rolle",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-7",
+      "nome": "Rombon 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      942712152,
+      1417180368
+    ]
+  },
+  {
+    "id": "X239",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.451527,
+    "lng": 9.082341,
+    "varcoVicino": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 105
+    },
+    "varcoCopertura": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1009649203
+    ]
+  },
+  {
+    "id": "X240",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.451439,
+    "lng": 9.080171,
+    "varcoVicino": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 76
+    },
+    "varcoCopertura": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1009649216,
+      1009649216
+    ]
+  },
+  {
+    "id": "X241",
+    "via": "Via Michele Lessona",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.521027,
+    "lng": 9.135983,
+    "varcoVicino": {
+      "id": "B-178",
+      "nome": "Val Lagarina",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 12
+    },
+    "varcoCopertura": {
+      "id": "B-178",
+      "nome": "Val Lagarina",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1029570005,
+      925971139
+    ]
+  },
+  {
+    "id": "X242",
+    "via": "Via Padre Ludovico Morell S.J.",
+    "tipoStrada": "unclassified",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.492,
+    "lng": 9.253067,
+    "varcoVicino": {
+      "id": "B-203",
+      "nome": "Padre Morelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 3
+    },
+    "varcoCopertura": {
+      "id": "B-203",
+      "nome": "Padre Morelli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1034603382,
+      1034603383
+    ]
+  },
+  {
+    "id": "X243",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.492297,
+    "lng": 9.230055,
+    "varcoVicino": {
+      "id": "B-16",
+      "nome": "Palmanova 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-16",
+      "nome": "Palmanova 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1036977308
+    ]
+  },
+  {
+    "id": "X244",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.414684,
+    "lng": 9.24072,
+    "varcoVicino": {
+      "id": "B-971",
+      "nome": "San Bernardo 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 45
+    },
+    "varcoCopertura": {
+      "id": "B-971",
+      "nome": "San Bernardo 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1059956420
+    ]
+  },
+  {
+    "id": "X245",
+    "via": "Via Giovanni Battista Cassinis",
+    "tipoStrada": "primary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.435043,
+    "lng": 9.235045,
+    "varcoVicino": {
+      "id": "B-123",
+      "nome": "Cassinis",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 15
+    },
+    "varcoCopertura": {
+      "id": "B-123",
+      "nome": "Cassinis",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1068416609
+    ]
+  },
+  {
+    "id": "X246",
+    "via": "Via Lucio Cornelio Silla",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.494918,
+    "lng": 9.076002,
+    "varcoVicino": {
+      "id": "B-940",
+      "nome": "Silla",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 21
+    },
+    "varcoCopertura": {
+      "id": "B-940",
+      "nome": "Silla",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1105163011
+    ]
+  },
+  {
+    "id": "X247",
+    "via": "Via Francesco Cilea",
+    "tipoStrada": "tertiary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.504623,
+    "lng": 9.095387,
+    "varcoVicino": {
+      "id": "B-199",
+      "nome": "Cilea",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 17
+    },
+    "varcoCopertura": {
+      "id": "B-199",
+      "nome": "Cilea",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1144882943,
+      1144882944
+    ]
+  },
+  {
+    "id": "X248",
+    "via": "Via Mario Borsa",
+    "tipoStrada": "residential",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.504652,
+    "lng": 9.095658,
+    "varcoVicino": {
+      "id": "B-198",
+      "nome": "Borsa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-198",
+      "nome": "Borsa",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1144882946,
+      1144882945
+    ]
+  },
+  {
+    "id": "X249",
+    "via": "Via San Dionigi",
+    "tipoStrada": "secondary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.431762,
+    "lng": 9.223811,
+    "varcoVicino": {
+      "id": "B-120",
+      "nome": "Ravenna",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 51
+    },
+    "varcoCopertura": {
+      "id": "B-120",
+      "nome": "Ravenna",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1186963479,
+      1186963480
+    ]
+  },
+  {
+    "id": "X250",
+    "via": "Via Ruggero Leoncavallo",
+    "tipoStrada": "primary",
+    "direzione": "solo ingresso",
+    "esito": "coperta",
+    "lat": 45.492296,
+    "lng": 9.229517,
+    "varcoVicino": {
+      "id": "B-13",
+      "nome": "Clitumno",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 34
+    },
+    "varcoCopertura": {
+      "id": "B-13",
+      "nome": "Clitumno",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1189105157
+    ]
+  },
+  {
+    "id": "X251",
+    "via": "Via Lodovico il Moro",
+    "tipoStrada": "tertiary",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.438171,
+    "lng": 9.123524,
+    "varcoVicino": {
+      "id": "B-98",
+      "nome": "Lodovico Il Moro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 25
+    },
+    "varcoCopertura": {
+      "id": "B-98",
+      "nome": "Lodovico Il Moro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1189693084
+    ]
+  },
+  {
+    "id": "X252",
+    "via": "Via Val Bavona",
+    "tipoStrada": "residential",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.447247,
+    "lng": 9.120871,
+    "varcoVicino": {
+      "id": "B-904",
+      "nome": "Bensi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 15
+    },
+    "varcoCopertura": {
+      "id": "B-904",
+      "nome": "Bensi",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1206804985
+    ]
+  },
+  {
+    "id": "X253",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.513125,
+    "lng": 9.256928,
+    "varcoVicino": {
+      "id": "B-17",
+      "nome": "Padova",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 115
+    },
+    "varcoCopertura": {
+      "id": "B-17",
+      "nome": "Padova",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1309496116
+    ]
+  },
+  {
+    "id": "X254",
+    "via": "Via Camillo e Otto Cima",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.473046,
+    "lng": 9.254047,
+    "varcoVicino": {
+      "id": "B-2",
+      "nome": "Cima",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 18
+    },
+    "varcoCopertura": {
+      "id": "B-2",
+      "nome": "Cima",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1449715946
+    ]
+  },
+  {
+    "id": "X255",
+    "via": "Via Gaudenzio Fantoli",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.451435,
+    "lng": 9.251496,
+    "varcoVicino": {
+      "id": "B-130",
+      "nome": "Fantoli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 5
+    },
+    "varcoCopertura": {
+      "id": "B-130",
+      "nome": "Fantoli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1467708394
+    ]
+  },
+  {
+    "id": "X256",
+    "via": "Via Caduti di Marcinelle",
+    "tipoStrada": "unclassified",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.483355,
+    "lng": 9.25896,
+    "varcoVicino": {
+      "id": "B-4",
+      "nome": "Caduti Di Marcinelle",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 15
+    },
+    "varcoCopertura": {
+      "id": "B-4",
+      "nome": "Caduti Di Marcinelle",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1468709265
+    ]
+  },
+  {
+    "id": "X257",
+    "via": "Via Gallarate",
+    "tipoStrada": "primary",
+    "direzione": "carreggiate separate",
+    "esito": "coperta",
+    "lat": 45.505955,
+    "lng": 9.101055,
+    "varcoVicino": {
+      "id": "B-74",
+      "nome": "Gallarate 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 40
+    },
+    "varcoCopertura": {
+      "id": "B-74",
+      "nome": "Gallarate 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1482181614,
+      1290097178
+    ]
+  },
+  {
+    "id": "X258",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "doppio senso",
+    "esito": "coperta",
+    "lat": 45.486461,
+    "lng": 9.079169,
+    "varcoVicino": {
+      "id": "B-77",
+      "nome": "Novara Trenno",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 13
+    },
+    "varcoCopertura": {
+      "id": "B-77",
+      "nome": "Novara Trenno",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1566039006
+    ]
+  },
+  {
+    "id": "X259",
+    "via": "Via Spezia",
+    "tipoStrada": "primary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.439215,
+    "lng": 9.171972,
+    "varcoVicino": {
+      "id": "B-105",
+      "nome": "La Spezia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 84
+    },
+    "varcoCopertura": {
+      "id": "B-105",
+      "nome": "La Spezia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      25609649
+    ]
+  },
+  {
+    "id": "X260",
+    "via": "Via Novara",
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.488149,
+    "lng": 9.075038,
+    "varcoVicino": {
+      "id": "B-941",
+      "nome": "Turbigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 309
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      26703159
+    ]
+  },
+  {
+    "id": "X261",
+    "via": "Sottopasso Schiavoni",
+    "tipoStrada": "secondary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.437681,
+    "lng": 9.171566,
+    "varcoVicino": {
+      "id": "B-105",
+      "nome": "La Spezia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 89
+    },
+    "varcoCopertura": {
+      "id": "B-105",
+      "nome": "La Spezia",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30453203
+    ]
+  },
+  {
+    "id": "X262",
+    "via": "Viale Rubicone",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.522406,
+    "lng": 9.173511,
+    "varcoVicino": {
+      "id": "B-40",
+      "nome": "Vincenzo Da Seregno 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 49
+    },
+    "varcoCopertura": {
+      "id": "B-40",
+      "nome": "Vincenzo Da Seregno 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30734151
+    ]
+  },
+  {
+    "id": "X263",
+    "via": "Viale Enrico Fermi",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.521839,
+    "lng": 9.173571,
+    "varcoVicino": {
+      "id": "B-41",
+      "nome": "Vincenzo Da Seregno 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 45
+    },
+    "varcoCopertura": {
+      "id": "B-41",
+      "nome": "Vincenzo Da Seregno 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      30734154
+    ]
+  },
+  {
+    "id": "X264",
+    "via": null,
+    "tipoStrada": "trunk_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.508887,
+    "lng": 9.129668,
+    "varcoVicino": {
+      "id": "B-53",
+      "nome": "Stephenson 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 418
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      33840175
+    ]
+  },
+  {
+    "id": "X265",
+    "via": "Via Canelli",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.49184,
+    "lng": 9.252456,
+    "varcoVicino": {
+      "id": "B-203",
+      "nome": "Padre Morelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 49
+    },
+    "varcoCopertura": {
+      "id": "B-203",
+      "nome": "Padre Morelli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      41427658
+    ]
+  },
+  {
+    "id": "X266",
+    "via": "Via Sandro Pertini",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.455739,
+    "lng": 9.086528,
+    "varcoVicino": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 58
+    },
+    "varcoCopertura": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      45270476
+    ]
+  },
+  {
+    "id": "X267",
+    "via": "Piazza Sire Raul",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.491919,
+    "lng": 9.229892,
+    "varcoVicino": {
+      "id": "B-174",
+      "nome": "Olivari",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-174",
+      "nome": "Olivari",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      48820365
+    ]
+  },
+  {
+    "id": "X268",
+    "via": "Via Inverigo",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.495514,
+    "lng": 9.131075,
+    "varcoVicino": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 67
+    },
+    "varcoCopertura": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      53815401
+    ]
+  },
+  {
+    "id": "X269",
+    "via": "Via Barnaba Oriani",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.500477,
+    "lng": 9.13076,
+    "varcoVicino": {
+      "id": "B-55",
+      "nome": "Oriani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 62
+    },
+    "varcoCopertura": {
+      "id": "B-55",
+      "nome": "Oriani",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      55200565
+    ]
+  },
+  {
+    "id": "X270",
+    "via": "Via degli Umiliati",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.444343,
+    "lng": 9.26552,
+    "varcoVicino": {
+      "id": "B-981",
+      "nome": "Vittorini 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 72
+    },
+    "varcoCopertura": {
+      "id": "B-981",
+      "nome": "Vittorini 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      71527924
+    ]
+  },
+  {
+    "id": "X271",
+    "via": "Viale Omero",
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.432126,
+    "lng": 9.224107,
+    "varcoVicino": {
+      "id": "B-121",
+      "nome": "Fabio Massimo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 37
+    },
+    "varcoCopertura": {
+      "id": "B-121",
+      "nome": "Fabio Massimo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      85894041
+    ]
+  },
+  {
+    "id": "X272",
+    "via": "Via Zurigo",
+    "tipoStrada": "secondary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.455948,
+    "lng": 9.115897,
+    "varcoVicino": {
+      "id": "B-94",
+      "nome": "Zurigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 70
+    },
+    "varcoCopertura": {
+      "id": "B-94",
+      "nome": "Zurigo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      86573307
+    ]
+  },
+  {
+    "id": "X273",
+    "via": "Via Palmanova",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.495903,
+    "lng": 9.235941,
+    "varcoVicino": {
+      "id": "B-11",
+      "nome": "Palmanova 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 30
+    },
+    "varcoCopertura": {
+      "id": "B-11",
+      "nome": "Palmanova 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      95658740
+    ]
+  },
+  {
+    "id": "X274",
+    "via": "Via dei Salici",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.452012,
+    "lng": 9.078837,
+    "varcoVicino": {
+      "id": "B-954",
+      "nome": "Salici 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 4
+    },
+    "varcoCopertura": {
+      "id": "B-954",
+      "nome": "Salici 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      98357025
+    ]
+  },
+  {
+    "id": "X275",
+    "via": "Via Meloria",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.483539,
+    "lng": 9.147226,
+    "varcoVicino": {
+      "id": "B-140",
+      "nome": "Veniero",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 74
+    },
+    "varcoCopertura": {
+      "id": "B-140",
+      "nome": "Veniero",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      104848110
+    ]
+  },
+  {
+    "id": "X276",
+    "via": "Alzaia Naviglio Pavese",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.43788,
+    "lng": 9.174514,
+    "varcoVicino": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 69
+    },
+    "varcoCopertura": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      152466113
+    ]
+  },
+  {
+    "id": "X277",
+    "via": "Via George Orwell",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.43246,
+    "lng": 9.240086,
+    "varcoVicino": {
+      "id": "B-122",
+      "nome": "Raccordo Autosole",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 405
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      158008681
+    ]
+  },
+  {
+    "id": "X278",
+    "via": "Via Basilea",
+    "tipoStrada": "secondary_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.455677,
+    "lng": 9.114358,
+    "varcoVicino": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 70
+    },
+    "varcoCopertura": {
+      "id": "B-93",
+      "nome": "Basilea",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      161974913
+    ]
+  },
+  {
+    "id": "X279",
+    "via": "Via Varsavia",
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.450934,
+    "lng": 9.229221,
+    "varcoVicino": {
+      "id": "B-189",
+      "nome": "Monte Cimone",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 42
+    },
+    "varcoCopertura": {
+      "id": "B-189",
+      "nome": "Monte Cimone",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      164622492
+    ]
+  },
+  {
+    "id": "X280",
+    "via": "Via Ugo Mulas",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.518359,
+    "lng": 9.243077,
+    "varcoVicino": {
+      "id": "B-149",
+      "nome": "Mulas",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 48
+    },
+    "varcoCopertura": {
+      "id": "B-149",
+      "nome": "Mulas",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      173067262
+    ]
+  },
+  {
+    "id": "X281",
+    "via": "Cavalcavia Giuseppe Luraghi",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.455637,
+    "lng": 9.086881,
+    "varcoVicino": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 73
+    },
+    "varcoCopertura": {
+      "id": "B-87",
+      "nome": "Castrovillari",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      184292695
+    ]
+  },
+  {
+    "id": "X282",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.530523,
+    "lng": 9.162563,
+    "varcoVicino": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 69
+    },
+    "varcoCopertura": {
+      "id": "B-43",
+      "nome": "Comasina",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      185067791
+    ]
+  },
+  {
+    "id": "X283",
+    "via": null,
+    "tipoStrada": "secondary_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.454601,
+    "lng": 9.09139,
+    "varcoVicino": {
+      "id": "B-89",
+      "nome": "Gozzoli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 56
+    },
+    "varcoCopertura": {
+      "id": "B-89",
+      "nome": "Gozzoli",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      227104751
+    ]
+  },
+  {
+    "id": "X284",
+    "via": "Via Cesare Lombroso",
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.456322,
+    "lng": 9.233147,
+    "varcoVicino": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 29
+    },
+    "varcoCopertura": {
+      "id": "B-192",
+      "nome": "Lombroso 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      232580868
+    ]
+  },
+  {
+    "id": "X285",
+    "via": "Viale Alcide De Gasperi",
+    "tipoStrada": "trunk_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.494452,
+    "lng": 9.130981,
+    "varcoVicino": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 63
+    },
+    "varcoCopertura": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      244134306
+    ]
+  },
+  {
+    "id": "X286",
+    "via": "Via Bruno Cesana",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.495806,
+    "lng": 9.235427,
+    "varcoVicino": {
+      "id": "B-11",
+      "nome": "Palmanova 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 31
+    },
+    "varcoCopertura": {
+      "id": "B-11",
+      "nome": "Palmanova 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      263804231
+    ]
+  },
+  {
+    "id": "X287",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.453995,
+    "lng": 9.229161,
+    "varcoVicino": {
+      "id": "B-190",
+      "nome": "Cadibona",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 40
+    },
+    "varcoCopertura": {
+      "id": "B-190",
+      "nome": "Cadibona",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      264303340
+    ]
+  },
+  {
+    "id": "X288",
+    "via": "Via Lorenteggio",
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.446059,
+    "lng": 9.124202,
+    "varcoVicino": {
+      "id": "B-96",
+      "nome": "Lorenteggio",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 51
+    },
+    "varcoCopertura": {
+      "id": "B-96",
+      "nome": "Lorenteggio",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      264312407
+    ]
+  },
+  {
+    "id": "X289",
+    "via": "Via Tertulliano",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.446345,
+    "lng": 9.229282,
+    "varcoVicino": {
+      "id": "B-188",
+      "nome": "Sulmona",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 180
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      264437542
+    ]
+  },
+  {
+    "id": "X290",
+    "via": "Via Monte Oliveto",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.44446,
+    "lng": 9.264059,
+    "varcoVicino": {
+      "id": "B-982",
+      "nome": "Parea",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 144
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      264614662
+    ]
+  },
+  {
+    "id": "X291",
+    "via": "Via Ettore Majorana",
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.513774,
+    "lng": 9.183591,
+    "varcoVicino": {
+      "id": "B-167",
+      "nome": "Majorana",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 96
+    },
+    "varcoCopertura": {
+      "id": "B-167",
+      "nome": "Majorana",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      264932739
+    ]
+  },
+  {
+    "id": "X292",
+    "via": "Via Pietro Giordani",
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.442923,
+    "lng": 9.123616,
+    "varcoVicino": {
+      "id": "B-97",
+      "nome": "Gonin",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 61
+    },
+    "varcoCopertura": {
+      "id": "B-97",
+      "nome": "Gonin",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      265020689
+    ]
+  },
+  {
+    "id": "X293",
+    "via": "Via Carlo Cicogna Mozzoni",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.515417,
+    "lng": 9.156922,
+    "varcoVicino": {
+      "id": "B-46",
+      "nome": "Gabbro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 104
+    },
+    "varcoCopertura": {
+      "id": "B-46",
+      "nome": "Gabbro",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      266145571
+    ]
+  },
+  {
+    "id": "X294",
+    "via": "Via Thomas Mann",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.523502,
+    "lng": 9.209955,
+    "varcoVicino": {
+      "id": "B-175",
+      "nome": "Ponale",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 114
+    },
+    "varcoCopertura": {
+      "id": "B-175",
+      "nome": "Ponale",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      267118295
+    ]
+  },
+  {
+    "id": "X295",
+    "via": "Via Carlo Boncompagni",
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.436679,
+    "lng": 9.234656,
+    "varcoVicino": {
+      "id": "B-123",
+      "nome": "Cassinis",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 174
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      267281116
+    ]
+  },
+  {
+    "id": "X296",
+    "via": "Via Vipacco",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.517317,
+    "lng": 9.225973,
+    "varcoVicino": {
+      "id": "B-25",
+      "nome": "Monza",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 40
+    },
+    "varcoCopertura": {
+      "id": "B-24",
+      "nome": "Columella",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      268600033
+    ]
+  },
+  {
+    "id": "X297",
+    "via": "Via Giovanni Schiavoni",
+    "tipoStrada": "secondary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.437634,
+    "lng": 9.174205,
+    "varcoVicino": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 60
+    },
+    "varcoCopertura": {
+      "id": "B-106",
+      "nome": "Bordighera",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      273261079
+    ]
+  },
+  {
+    "id": "X298",
+    "via": "Via degli Abeti",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.451617,
+    "lng": 9.082615,
+    "varcoVicino": {
+      "id": "B-953",
+      "nome": "Salici 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 129
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      273801370
+    ]
+  },
+  {
+    "id": "X299",
+    "via": "Via dei Salici",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.45341,
+    "lng": 9.07787,
+    "varcoVicino": {
+      "id": "B-955",
+      "nome": "Ontani",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 136
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      273801389
+    ]
+  },
+  {
+    "id": "X300",
+    "via": "Via Antonio Mosca",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.448895,
+    "lng": 9.067342,
+    "varcoVicino": {
+      "id": "B-963",
+      "nome": "Jemolo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 14
+    },
+    "varcoCopertura": {
+      "id": "B-963",
+      "nome": "Jemolo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      273833738
+    ]
+  },
+  {
+    "id": "X301",
+    "via": "Via Doberdò",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.51875,
+    "lng": 9.226392,
+    "varcoVicino": {
+      "id": "B-153",
+      "nome": "Galeno",
+      "stato": "IN PRE-ESERCIZIO",
+      "distanza": 88
+    },
+    "varcoCopertura": {
+      "id": "B-153",
+      "nome": "Galeno",
+      "stato": "IN PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      274295110
+    ]
+  },
+  {
+    "id": "X302",
+    "via": "Via Taverna",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.46821,
+    "lng": 9.256266,
+    "varcoVicino": {
+      "id": "B-1",
+      "nome": "Corelli",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 538
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      277589477
+    ]
+  },
+  {
+    "id": "X303",
+    "via": "Viale Lodovico Scarampo",
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.482836,
+    "lng": 9.148775,
+    "varcoVicino": {
+      "id": "B-143",
+      "nome": "Teodorico",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 11
+    },
+    "varcoCopertura": {
+      "id": "B-143",
+      "nome": "Teodorico",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283657152
+    ]
+  },
+  {
+    "id": "X304",
+    "via": "Via Magreglio",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.49685,
+    "lng": 9.130821,
+    "varcoVicino": {
+      "id": "B-65",
+      "nome": "Gallarate 3",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 50
+    },
+    "varcoCopertura": {
+      "id": "B-65",
+      "nome": "Gallarate 3",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283832352
+    ]
+  },
+  {
+    "id": "X305",
+    "via": "Viale Alcide De Gasperi",
+    "tipoStrada": "primary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.495791,
+    "lng": 9.128394,
+    "varcoVicino": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 79
+    },
+    "varcoCopertura": {
+      "id": "B-60",
+      "nome": "De Gasperi 1",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      283839725
+    ]
+  },
+  {
+    "id": "X306",
+    "via": "Via Giovanni Battista Grassi",
+    "tipoStrada": "secondary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.515141,
+    "lng": 9.12342,
+    "varcoVicino": {
+      "id": "B-179",
+      "nome": "Cogne",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 116
+    },
+    "varcoCopertura": {
+      "id": "B-179",
+      "nome": "Cogne",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      284266959
+    ]
+  },
+  {
+    "id": "X307",
+    "via": "Via Fabrizio Quattrocchi",
+    "tipoStrada": "secondary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.4946,
+    "lng": 9.130602,
+    "varcoVicino": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 72
+    },
+    "varcoCopertura": {
+      "id": "B-64",
+      "nome": "Inverigo",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      284853632
+    ]
+  },
+  {
+    "id": "X308",
+    "via": null,
+    "tipoStrada": "service",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.52797,
+    "lng": 9.164519,
+    "varcoVicino": {
+      "id": "B-39",
+      "nome": "Senigallia 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 20
+    },
+    "varcoCopertura": {
+      "id": "B-39",
+      "nome": "Senigallia 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      317651555
+    ]
+  },
+  {
+    "id": "X309",
+    "via": "Via Aldo Rossi",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.48698,
+    "lng": 9.147846,
+    "varcoVicino": {
+      "id": "B-184",
+      "nome": "Aldo Rossi",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 178
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      320302724
+    ]
+  },
+  {
+    "id": "X310",
+    "via": "Via Federica Galli",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.520319,
+    "lng": 9.21725,
+    "varcoVicino": {
+      "id": "B-28",
+      "nome": "Sesto San Giovanni",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 139
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      326702750
+    ]
+  },
+  {
+    "id": "X311",
+    "via": null,
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.508085,
+    "lng": 9.100384,
+    "varcoVicino": {
+      "id": "B-73",
+      "nome": "Daimler 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 259
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      338331686
+    ]
+  },
+  {
+    "id": "X312",
+    "via": "Viale Achille Papa",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.490941,
+    "lng": 9.140801,
+    "varcoVicino": {
+      "id": "B-147",
+      "nome": "Achille Papa",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 215
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      338544199
+    ]
+  },
+  {
+    "id": "X313",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.43811,
+    "lng": 9.250816,
+    "varcoVicino": {
+      "id": "B-127",
+      "nome": "Futurismo",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 328
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      464308651
+    ]
+  },
+  {
+    "id": "X314",
+    "via": null,
+    "tipoStrada": "trunk_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.506568,
+    "lng": 9.130654,
+    "varcoVicino": {
+      "id": "B-69",
+      "nome": "Montefeltro",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 460
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      502207009
+    ]
+  },
+  {
+    "id": "X315",
+    "via": "Via Gottlieb Wilhelm Daimler",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.509922,
+    "lng": 9.099553,
+    "varcoVicino": {
+      "id": "B-73",
+      "nome": "Daimler 2",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 44
+    },
+    "varcoCopertura": {
+      "id": "B-73",
+      "nome": "Daimler 2",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      525735138
+    ]
+  },
+  {
+    "id": "X316",
+    "via": "Via Giovanni Cimabue",
+    "tipoStrada": "primary_link",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.486041,
+    "lng": 9.143948,
+    "varcoVicino": {
+      "id": "B-138",
+      "nome": "Serra 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 69
+    },
+    "varcoCopertura": {
+      "id": "B-138",
+      "nome": "Serra 1",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO"
+    },
+    "osmWayIds": [
+      1008726594
+    ]
+  },
+  {
+    "id": "X317",
+    "via": "Piazza Sire Raul",
+    "tipoStrada": "primary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.492149,
+    "lng": 9.229565,
+    "varcoVicino": {
+      "id": "B-15",
+      "nome": "Teodosio",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 32
+    },
+    "varcoCopertura": {
+      "id": "B-15",
+      "nome": "Teodosio",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1189105158
+    ]
+  },
+  {
+    "id": "X318",
+    "via": "Via Palmanova",
+    "tipoStrada": "residential",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.494563,
+    "lng": 9.233816,
+    "varcoVicino": {
+      "id": "B-10",
+      "nome": "Carnia",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 166
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1189117056
+    ]
+  },
+  {
+    "id": "X319",
+    "via": "Via Caduti in Missione di Pace",
+    "tipoStrada": "unclassified",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.477653,
+    "lng": 9.252588,
+    "varcoVicino": {
+      "id": "B-3",
+      "nome": "Rubattino",
+      "stato": "ATTIVI E SANZIONANTI",
+      "distanza": 96
+    },
+    "varcoCopertura": {
+      "id": "B-3",
+      "nome": "Rubattino",
+      "stato": "ATTIVI E SANZIONANTI"
+    },
+    "osmWayIds": [
+      1211575273
+    ]
+  },
+  {
+    "id": "X320",
+    "via": null,
+    "tipoStrada": "tertiary",
+    "direzione": "solo uscita",
+    "esito": "solo-uscita",
+    "lat": 45.442867,
+    "lng": 9.256842,
+    "varcoVicino": {
+      "id": "B-983",
+      "nome": "Vittorini 2",
+      "stato": "DA PROGRAMMARE PRE-ESERCIZIO",
+      "distanza": 315
+    },
+    "varcoCopertura": null,
+    "osmWayIds": [
+      1482132829
+    ]
+  }
+]

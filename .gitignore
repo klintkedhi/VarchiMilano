@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# cache script dati (Overpass / Nominatim)
+/scripts/.cache/
+
+# impostazioni locali di Claude Code
+/.claude/settings.local.json
